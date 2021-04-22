@@ -9,6 +9,7 @@ def run(test_dataset):
     import pandas as pd
     from . import item1_parser
 
+    score = 0
     ## load test dataset
     df = pd.read_csv(test_dataset)
     for index, row in df.iterrows():
@@ -22,3 +23,6 @@ def run(test_dataset):
         match = item1_parser.first_try(title, abstract)
 
         ## comparre match & score
+        if str(match) == str(present) :
+            score += 1
+        return score
