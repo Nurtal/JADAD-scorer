@@ -19,6 +19,7 @@ if __name__=="__main__":
 
     ## importation
     import scorer
+    from scorer import test_item1_parser
 
     ## parameters
     dataset_test_file = "data/test_dataset.csv"
