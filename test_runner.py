@@ -22,6 +22,12 @@ if __name__=="__main__":
 
     ## parameters
     dataset_test_file = "data/test_dataset.csv"
+    shutup_mode = False
 
     ## test item 1 parsing
-    scorer.test_item1_parser.run(dataset_test_file)
+    i1_results = scorer.test_item1_parser.test_simple_guess(dataset_test_file)
+
+    ## display results if shutup_mode is set to False
+    if(not shutup_mode):
+        print("[ITEM1] ACC => "+str(i1_results[0]))
+        print("[ITEM1] AUC => "+str(i1_results[1]))
