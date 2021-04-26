@@ -2,7 +2,9 @@ def simple_guess(title, abstract):
     """
     simple & stupid regex search
 
-    - Est-ce que cet article est decrit comme randomise ?
+    - Est ce que cet article est decrit comme en double aveugle ?
+    (On doit plutôt dire maintenant que le patient,
+    le soignant et l'evaluateur sont en aveugle.)
     """
 
     ## importation
@@ -17,7 +19,8 @@ def simple_guess(title, abstract):
     text = text.lower()
 
     ## hunt random
-    if(re.search('random', text)):
+    #-> TODO : adapt, just placeholder for now
+    if(re.search('blind', text)):
         match_item = True
 
     ## return match status

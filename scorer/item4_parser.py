@@ -1,8 +1,10 @@
 def simple_guess(title, abstract):
     """
-    simple & stupid regex search
+    place holder
 
-    - Est-ce que cet article est decrit comme randomise ?
+    - la methode de randomisation a ete decrite
+    dans l'article et que cette methode est appropriee
+
     """
 
     ## importation
@@ -16,9 +18,7 @@ def simple_guess(title, abstract):
     text = text.replace(".. ", ". ")
     text = text.lower()
 
-    ## hunt random
-    if(re.search('random', text)):
-        match_item = True
+    ## TODO : Magick
 
     ## return match status
     return match_item
