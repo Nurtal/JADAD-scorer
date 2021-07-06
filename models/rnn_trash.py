@@ -19,7 +19,7 @@ df = pd.read_csv('../data/sentence_dataset.csv')
 
 ## preprocess
 X = df['SENTENCE']
-Y = df['ITEM 1']
+Y = df['ITEM 3']
 le = LabelEncoder()
 Y = le.fit_transform(Y)
 Y = Y.reshape(-1,1)
@@ -57,16 +57,16 @@ model.compile(loss='binary_crossentropy',optimizer=RMSprop(),metrics=['accuracy'
 ## train the model
 model.fit(
     sequences_matrix,Y_train,
-    batch_size=16,epochs=20,
+    batch_size=16,epochs=100,
     validation_split=0.3
     )
 
 
 ## save model
-model.save("item1_predictor.h5")
+model.save("item3_predictor.h5")
 
 ## save tokenizer
-with open('item1_tokenizer.pickle', 'wb') as handle:
+with open('item3_tokenizer.pickle', 'wb') as handle:
     pickle.dump(tok, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 ## evaluate the model
