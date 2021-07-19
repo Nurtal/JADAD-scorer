@@ -509,11 +509,627 @@ Data on potential reports of any of these events were extracted from the trial d
 Additional details of the procedures used in the double-blinded phase of the study are reported elsewhere,0,1,0,0,1
 "The randomisation system informed local clinicians of the patients' unique trial identification number, and the weight-adjusted dose of drug or placebo in the double-blinded phase, or of the weight-adjusted drug dose among those allocated thrombolysis in the open phase, to be given as a 10% bolus with the remainder by an infusion over 1 h.",1,1,0,1,1
 "With the exception of the 276 patients treated in the double-blinded phase of the trial, treatment was given openly and neither the patient nor the treating clinicians were masked. ",0,1,0,0,0
-"Hospital staff completed an early outcome form at 7 days, death, or hospital discharge, whichever occured first, recording details of events occurring in hospital within 7 days, details of background treatments given and functional status",0,0,1,0,0
-"6 months after randomisation, general practitioners (or hospital coordinators) were contacted by the IST-3 trial office staff to check that the patient was alive and inform them that they might be approached for follow-up",1,0,1,0,0
-"If appropriate, the IST-3 trial office masked staff then mailed a postal questionnaire to patients to assess outcome",0,0,1,0,0
-"Non-responders were contacted by telephone, and follow-up data was obtained by telephone interview",0,0,1,0,0
-"In Italy and Austria, all follow-ups were done as telephone interviews by a clinician, who was masked to treatment allocation and was highly experienced in outcome assessment",0,0,1,0,0
-"In Portugal, patients were followed up in clinic by clinicians not involved in the patients' initial treatment, again, masked to treatment allocation as far as possible",0,0,1,0,0
-"To assess the durability of any treatment benefit beyond 6 months, patients recruited in the UK (and in other countries where appropriate funding had been obtained) were also followed up at 18 months",0,0,1,0,0
-"All follow-up done by patient contact for these analyses ceased on March 31, 2012, but recording of deaths from national registries of deaths continues in UK, Norway, and Sweden.",0,0,1,0,0
+"Hospital staff completed an early outcome form at 7 days, death, or hospital discharge, whichever occured first, recording details of events occurring in hospital within 7 days, details of background treatments given and functional status",0,0,0,0,0
+"6 months after randomisation, general practitioners (or hospital coordinators) were contacted by the IST-3 trial office staff to check that the patient was alive and inform them that they might be approached for follow-up",1,0,0,0,0
+"If appropriate, the IST-3 trial office masked staff then mailed a postal questionnaire to patients to assess outcome",0,0,0,0,0
+"Non-responders were contacted by telephone, and follow-up data was obtained by telephone interview",0,0,0,0,0
+"In Italy and Austria, all follow-ups were done as telephone interviews by a clinician, who was masked to treatment allocation and was highly experienced in outcome assessment",0,0,0,0,0
+"In Portugal, patients were followed up in clinic by clinicians not involved in the patients' initial treatment, again, masked to treatment allocation as far as possible",0,0,0,0,0
+"To assess the durability of any treatment benefit beyond 6 months, patients recruited in the UK (and in other countries where appropriate funding had been obtained) were also followed up at 18 months",0,0,0,0,0
+"All follow-up done by patient contact for these analyses ceased on March 31, 2012, but recording of deaths from national registries of deaths continues in UK, Norway, and Sweden.",0,0,0,0,0
+Effect of Vocimagene Amiretrorepvec in Combination With Flucytosine vs Standard of Care on Survival Following Tumor Resection in Patients With Recurrent High-Grade Glioma: A Randomized Clinical Trial,1,0,0,0,0
+Importance: New treatments are needed to improve the prognosis of patients with recurrent high-grade glioma.,0,0,0,0,0
+Objective: To compare overall survival for patients receiving tumor resection followed by vocimagene amiretrorepvec (Toca 511) with flucytosine (Toca FC) vs standard of care (SOC).,0,0,0,0,0
+"Design, setting, and participants: A randomized, open-label phase 2/3 trial (TOCA 5) in 58 centers in the US, Canada, Israel, and South Korea, comparing posttumor resection treatment with Toca 511 followed by Toca FC vs a defined single choice of approved (SOC) therapies was conducted from November 30, 2015, to December 20, 2019.",1,0,0,0,0
+Patients received tumor resection for first or second recurrence of glioblastoma or anaplastic astrocytoma.,0,0,0,0,0
+Interventions: Patients were randomized 1:1 to receive Toca 511/FC (n = 201) or SOC control (n = 202).,1,0,0,0,0
+"For the Toca 511/FC group, patients received Toca 511 injected into the resection cavity wall at the time of surgery, followed by cycles of oral Toca FC 6 weeks after surgery.",0,0,0,0,0
+"For the SOC control group, patients received investigators' choice of single therapy: lomustine, temozolomide, or bevacizumab.",0,0,0,0,0
+Main outcomes and measures: The primary outcome was overall survival (OS) in time from randomization date to death due to any cause.,1,0,0,0,0
+"Secondary outcomes reported in this study included safety, durable response rate (DRR), duration of DRR, durable clinical benefit rate, OS and DRR by IDH1 variant status, and 12-month OS.",0,0,0,0,0
+"Results: All 403 randomized patients (median [SD] age: 56 [11.46] years; 62.5% [252] men) were included in the efficacy analysis, and 400 patients were included in the safety analysis (3 patients on the SOC group did not receive resection).",1,0,0,0,0
+Final analysis included 271 deaths (141 deaths in the Toca 511/FC group and 130 deaths in the SOC control group).,0,0,0,0,0
+The median follow-up was 22.8 months. ,0,0,0,0,0
+"The median OS was 11.10 months for the Toca 511/FC group and 12.22 months for the control group (hazard ratio, 1.06; 95% CI 0.83, 1.35; P = .62).",0,0,0,0,0
+The secondary end points did not demonstrate statistically significant differences.,0,0,0,0,0
+The rates of adverse events were similar in the Toca 511/FC group and the SOC control group.,0,0,0,0,0
+"Conclusions and relevance: Among patients who underwent tumor resection for first or second recurrence of glioblastoma or anaplastic astrocytoma, administration of Toca 511 and Toca FC, compared with SOC, did not improve overall survival or other efficacy end points.",0,0,0,0,0
+"Treatment of primary Sjögren's syndrome with ianalumab (VAY736) targeting B cells by BAFF receptor blockade coupled with enhanced, antibody-dependent cellular cytotoxicity",0,0,0,0,0
+"Objectives: To evaluate the efficacy and safety of ianalumab (VAY736), a B cell-depleting, B cell activating factor receptor-blocking, monoclonal antibody, in patients with active primary Sjögren's syndrome (pSS) in a double-blind, placebo-controlled, phase II, single-centre study.",0,1,0,0,0
+"Methods: Patients with pSS, EULAR Sjögren's Syndrome Disease Activity Index (ESSDAI) ≥6, were randomised to ianalumab single infusion at either 3 mg/kg (n=6), 10 mg/kg (n=12) or placebo (n=9).",1,0,0,1,0
+"Outcomes were measured blinded at baseline and weeks 6, 12, 24, and unblinded at end of study (EoS) when B cell numbers had recovered. ",0,0,0,0,0
+Laboratory-based measures included circulating leucocyte subsets and markers of B cell activity.,0,0,0,0,0
+"Clinical outcomes included ESSDAI, EULAR Sjögren's Syndrome Patient Reported Index (ESSPRI), salivary flow rate, ocular staining score, physician global assessment and patient assessments of fatigue and general quality of life. ",0,0,0,0,0
+"Results: A similar trend showing positive therapeutic effect by ianalumab was observed across the primary clinical outcome (ESSDAI) and all secondary clinical outcomes (ESSPRI, Multidimensional Fatigue Inventory, Short Form-36, global assessments by physician and patient) versus the placebo-treated group. ",0,0,0,0,0
+Rapid and profound B cell depletion of long-lasting duration occurred after a single infusion of ianalumab at either dose.,0,0,0,0,0
+"Serum Ig light chains decreased, with return to baseline levels at EoS.",0,0,0,0,0
+Changes in some clinical outcomes persisted through to EoS in the higher dose group.,0,0,0,0,0
+Adverse effects were largely limited to mild to moderate infusion reactions within 24 hours of ianalumab administration.,0,0,0,0,0
+Conclusions: Overall results in this single-dose study suggest potent and sustained B cell depletion by ianalumab could provide therapeutic benefits in patients with pSS without major side effects.,0,0,0,0,0
+Randomized Controlled Trial of Rituximab and Cost-Effectiveness Analysis in Treating Fatigue and Oral Dryness in Primary Sjögren's Syndrome,1,0,0,0,0
+"Objective: To investigate whether rituximab, an anti-B cell therapy, improves symptoms of fatigue and oral dryness in patients with primary Sjögren's syndrome (SS).",0,0,0,0,0
+"Methods: We conducted a multicenter, randomized, double-blind, placebo-controlled, parallel-group trial that included health economic analysis.",1,1,0,0,0
+" Anti-Ro-positive patients with primary SS, symptomatic fatigue, and oral dryness were recruited from 25 UK rheumatology clinics from August 2011 to January 2014.",0,0,0,0,0
+"Patients were centrally randomized to receive either intravenous (IV) placebo (250 ml saline) or IV rituximab (1,000 mg in 250 ml saline) in 2 courses at weeks 0, 2, 24, and 26, with pre- and postinfusion medication including corticosteroids.",1,0,0,1,0
+"The primary end point was the proportion of patients achieving a 30% reduction in either fatigue or oral dryness at 48 weeks, as measured by visual analog scale.",0,0,0,0,0
+"Other outcome measures included salivary and lacrimal flow rates, quality of life, scores on the European League Against Rheumatism (EULAR) Sjögren's Syndrome Patient Reported Index and EULAR Sjögren's Syndrome Disease Activity Index, symptoms of ocular and overall dryness, pain, globally assessed disease activity, and cost-effectiveness.",0,0,0,0,0
+Results: All 133 patients who were randomized to receive placebo (n = 66) or rituximab (n = 67) were included in the primary analysis.,1,0,0,0,0
+"Among patients with complete data, 21 of 56 placebo-treated patients and 24 of 61 rituximab-treated patients achieved the primary end point.",0,0,0,0,0
+"After multiple imputation of missing outcomes, response rates in the placebo and rituximab groups were 36.8% and 39.8%, respectively (adjusted odds ratio 1.13 [95% confidence interval 0.50, 2.55]).",0,0,0,0,0
+There were no significant improvements in any outcome measure except for unstimulated salivary flow.,0,0,0,0,0
+" The mean ± SD costs per patient for rituximab and placebo were £10,752 ± 264.75 and £2,672 ± 241.71, respectively. ",0,0,0,0,0
+"There were slightly more adverse events (AEs) reported in total for rituximab, but there was no difference in serious AEs (10 in each group).",0,0,0,0,0
+Conclusion: The results of this study indicate that rituximab is neither clinically effective nor cost-effective in this patient population.,0,0,0,0,0
+Treatment of primary Sjögren syndrome with rituximab: a randomized trial,1,0,0,0,0
+Background: Primary Sjögren syndrome (pSS) is an autoimmune disorder characterized by ocular and oral dryness or systemic manifestations.,0,0,0,0,0
+Objective: To evaluate efficacy and harms of rituximab in adults with recent-onset or systemic pSS.,0,0,0,0,0
+"Design: Randomized, placebo-controlled, parallel-group trial conducted between March 2008 and January 2011.",1,1,0,0,0
+"Study personnel (except pharmacists), investigators, and patients were blinded to treatment group.",0,1,0,0,1
+Setting: 14 university hospitals in France.,0,0,0,0,0
+"Patients: 120 patients with scores of 50 mm or greater on at least 2 of 4 visual analogue scales (VASs) (global disease, pain, fatigue, and dryness) and recent-onset (< 10 years) biologically active or systemic pSS.",0,0,0,0,0
+Intervention: Randomization (1:1 ratio) to rituximab (1 g at weeks 0 and 2) or placebo.,1,0,0,1,0
+Measurements: Primary end point was improvement of at least 30 mm in 2 of 4 VASs by week 24.,0,0,0,0,0
+"Results: No significant difference between groups in the primary end point was found (difference, 1.0% [95% CI, -16.7% to 18.7%]). ",0,0,0,0,0
+he proportion of patients with at least 30-mm decreases in at least two of the four VAS scores was higher in the rituximab group at week 6 (22.4% vs. 9.1%; P = 0.036).,0,0,0,0,0
+"An improvement of at least 30 mm in VAS fatigue score was more common with rituximab at weeks 6 (P < 0.001) and 16 (P = 0.012), and improvement in fatigue from baseline to week 24 was greater with rituximab.",0,0,0,0,0
+Adverse events were similar between groups except for a higher rate of infusion reactions with rituximab,0,0,0,0,0
+Limitation: Low disease activity at baseline and a primary outcome that may have been insensitive to detect clinically important changes.,0,0,0,0,0
+"Conclusion: Rituximab did not alleviate symptoms or disease activity in patients with pSS at week 24, although it alleviated some symptoms at earlier time points.",0,0,0,0,0
+Remote ischemic conditioning improves cognition in patients with subcortical ischemic vascular dementia,0,0,0,0,0
+"Background: Subcortical ischemic vascular dementia (SIVD) is very common among the older people, but has no approved treatment. ",0,0,0,0,0
+Preclinical trials show that remote ischemic conditioning (RIC) reduces recurrence of ischemic stroke. ,0,0,0,0,0
+We hypothesize that RIC may also be an effective therapy for patients with SIVD.,0,0,0,0,0
+Methods: Thirty-seven consecutive SIVD cases were enrolled in this randomized control study.,1,0,0,0,0
+Eighteen RIC patients underwent five brief cycles of conditioning (bilateral upper limb compression at 200 mmHg) followed by reperfusion twice daily over 6 consecutive months. ,0,0,0,0,0
+"Nineteen control patients underwent the same process, but at a pressure of 60 mmHg which caused no restriction on the blood flow of the upper limb.",0,0,0,0,0
+The primary outcome measures were changes in neuropsychological assessments.,0,0,0,0,0
+"The secondary outcomes included the changes in high-sensitive C-reactive protein (hs-CRP) concentration, white matter lesion volume (WMLV), diffusion tension imaging (DTI) metrics of white matter. ",0,0,0,0,0
+All data were collected at baseline and follow-up.,0,0,0,0,0
+"Results: A significant treatment difference favoring RIC at 6 months was observed on performance of Hopkins Verbal Learning Test-Revised (HVLT-R), Controlled Oral Word Association Test (COWAT), Trail Making Test A and B (TMT-A & TMT-B), and Judgment of Line Orientation (JLO) (p < 0.05).",0,0,0,0,0
+"The control group did not show much improvement after the treatment, and only with a slight change in HVLT-R and TMT-R (p < 0.05). Covariance analysis of efficacy between the two groups suggested that RIC patients performed better on JLO than control patients at the 6-month follow-up (RIC 23.10 vs. control 18.56; p = 0.013). ",0,0,0,0,0
+"Although DTI metrics were comparable, Hs-CRP levels and WMLV in RIC patients showed a declining trend.",0,0,0,0,0
+"Conclusions: Over the 6-month treatment period, we found that RIC was safe and effective for improving cognitive function in SIVD patients.",0,0,0,0,0
+"Double-blind, randomized and controlled trial of EPI-743 in Friedreich's ataxia",1,1,0,0,0
+Aim: To evaluate the safety and clinical effects of EPI-743 in Friedreich's ataxia patients. ,0,0,0,0,0
+EPI-743 is a compound that targets oxidoreductase enzymes essential for redox control of metabolism,0,0,0,0,0
+"Methods: We conducted a multicenter trial that evaluated EPI-743 during a 6-month placebo-controlled phase, followed by an 18-month open-label phase.",0,0,0,0,0
+End points included low-contrast visual acuity and the Friedreich's Ataxia Rating Scale.,0,0,0,0,0
+Results/conclusion: EPI-743 was demonstrated to be safe and well tolerated.,0,0,0,0,0
+There were no significant improvements in key end points during the placebo phase.,0,0,0,0,0
+"However, at 24 months, EPI-743 treatment was associated with a statistically significant improvement in neurological function and disease progression relative to a natural history cohort (p < 0.001).",0,0,0,0,0
+One-year sustained efficacy of erenumab in episodic migraine: Results of the STRIVE study,0,0,0,0,0
+Objective: To assess efficacy and tolerability of 1-year erenumab treatment in patients with episodic migraine.,0,0,0,0,0
+Methods: Patients were randomized (n = 955; 1:1:1) during the 24-week double-blind treatment phase (DBTP) to monthly subcutaneous placebo or erenumab 70 or 140 mg. ,1,1,0,0,0
+"At week 24, 845 patients were rerandomized (1:1) to erenumab 70 or 140 mg during the 28-week dose-blinded active-treatment phase (ATP).",0,1,0,0,0
+"Monthly migraine days (MMD), achieving ≥50%, ≥75%, and 100% reduction in MMD, and safety/tolerability were assessed.",0,0,0,0,0
+"Results: Mean MMD at DBTP baseline was 8.3. At week 52, mean changes (SE) from pre-DBTP baseline/week 24 (pre-ATP baseline) in MMD were -4.2 (0.2)/-1.1 (0.2) (70 mg) and -4.6 (0.2)/-1.8 (0.2) (140 mg) irrespective of treatment during the DBTP.",0,0,0,0,0
+"For patients reducing dose from 140 (DBTP) to 70 mg (ATP), change in MMD from week 24 to 52 was -0.1 (0.3), and for those increasing from 70 (DBTP) to 140 mg (ATP), -1.8 (0.3). ",0,0,0,0,0
+"At week 52, 61.0%, 38.5%, and 19.8% of patients on erenumab 70 mg, and 64.9%, 40.8%, and 21.2% on erenumab 140 mg, achieved ≥50%, ≥75%, and 100% reduction in MMD from DBTP baseline, respectively.",0,0,0,0,0
+"Among erenumab-treated patients in DBTP who showed ≥50% reduction in MMD during the last 3 months of DBTP and completed ATP, 86% showed sustained responses at ≥50% during the last 3 months of ATP. ",0,0,0,0,0
+Safety of erenumab in ATP was similar to DBTP; exposure-adjusted incidence rates of adverse events were similar for either dose.,0,0,0,0,0
+"Conclusion: Over 52 weeks, erenumab provided sustained efficacy in episodic migraine; the safety profiles were similar between erenumab dose groups in the presence of dose blinding.",0,1,0,0,0
+Randomized controlled trial on the influence of dietary intervention on epigenetic mechanisms in children with cow's milk allergy: the EPICMA study,1,0,0,0,0
+Epigenetic mechanisms could drive the disease course of cow's milk allergy (CMA) and formula choice could modulate these pathways. ,0,0,0,0,0
+We compared the effect of two different dietary approaches on epigenetic mechanisms in CMA children.,0,0,0,0,0
+Randomized controlled trial on IgE-mediated CMA children receiving a 12-month treatment with extensively hydrolyzed casein formula containing the probiotic L.rhamnosus GG (EHCF + LGG) or with soy formula (SF). ,1,0,0,0,0
+"At the baseline, after 6 and 12 months of treatment FoxP3 methylation rate and its expression in CD4+ T cells were assessed.",0,0,0,0,0
+"At same study points IL-4, IL-5, IL-10, and IFN-γ methylation rate, expression and serum concentration, miRNAs expression were also investigated. 20 children (10/group) were evaluated.",0,0,0,0,0
+"Baseline demographic, clinical and epigenetic features were similar in the two study groups. ",0,0,0,0,0
+"t 6 and 12 months, EHCF + LGG group showed a significant increase in FoxP3 demethylation rate compared to SF group.",0,0,0,0,0
+"At the same study points, EHCF + LGG group presented a higher increase in IL-4 and IL-5 and a higher reduction in IL-10 and IFN-γ DNA methylation rate compared to SF group.",0,0,0,0,0
+"A different modulation of miR-155, -146a, -128 and -193a expression was observed in EHCF + LGG vs. SF. Dietary intervention could exert a different epigenetic modulation on the immune system in CMA children.",0,0,0,0,0
+Activate: Randomized Clinical Trial of BCG Vaccination against Infection in the Elderly,1,0,0,0,0
+BCG vaccination in children protects against heterologous infections and improves survival independently of tuberculosis prevention. ,0,0,0,0,0
+The phase III ACTIVATE trial assessed whether BCG has similar effects in the elderly. ,0,0,0,0,0
+"In this double-blind, randomized trial, elderly patients (n = 198) received BCG or placebo vaccine at hospital discharge and were followed for 12 months for new infections.",1,1,0,0,0
+"At interim analysis, BCG vaccination significantly increased the time to first infection (median 16 weeks compared to 11 weeks after placebo). ",0,0,0,0,0
+"The incidence of new infections was 42.3% (95% CIs 31.9%-53.4%) after placebo vaccination and 25.0% (95% CIs 16.4%-36.1%) after BCG vaccination; most of the protection was against respiratory tract infections of probable viral origin (hazard ratio 0.21, p = 0.013). ",0,0,0,0,0
+No difference in the frequency of adverse effects was found. ,0,0,0,0,0
+Data show that BCG vaccination is safe and can protect the elderly against infections.,0,0,0,0,0
+"Larger studies are needed to assess protection against respiratory infections, including COVID-19 ",0,0,0,0,0
+"Efficacy of individualized homeopathic treatment of insomnia: Double-blind, randomized, placebo-controlled clinical trial",1,1,0,0,0
+"Background: Insomnia is the most common sleep-related complaint associated with impaired day-time functioning, reduced quality of life, increased morbidity and substantial societal cost. ",0,0,0,0,0
+We evaluated whether individualized homeopathy (IH) could produce significant effect beyond placebo in treatment of insomnia.,0,0,0,0,0
+"Methods: In this double-blind, randomized, placebo-controlled, two parallel arms trial, 60 patients were randomized to receive either IH/verum or control/placebo (1:1). ",1,1,0,0,0
+"Patient-administered sleep diary (6 items; 1: latency to fall asleep, 2: minutes awake in middle of night, 3: minutes awake too early, 4: hours spent in bed, 5: total sleep time in hours, and 6: sleep efficiency) and Insomnia Severity Index (ISI) were taken as the primary and secondary outcomes respectively, measured at baseline, and after 3 months.",0,0,0,0,0
+"Results: Five patients dropped out (verum: 2, control: 3). ",0,0,1,0,0
+Intention to treat sample (n = 60) was analyzed. ,0,0,0,0,0
+Trial arms were comparable at baseline.,0,0,0,0,0
+"In the verum group, except sleep diary item 3 (P = 0.371), rest of the outcomes improved significantly (all P < 0.01).",0,0,0,0,0
+"In the control group, there were significant improvements in diary item 6 and ISI score (P < 0.01) and just significant improvement in item 5 (P = 0.018).",0,0,0,0,0
+"Group differences were significant for items 4, 5 and 6 (P < 0.01) and just significant (P = 0.014) for ISI score with moderate to large effect sizes; but non-significant (P > 0.01) for rest of the outcomes.",0,0,0,0,0
+Conclusion: IH seemed to produce significantly better effect than placebo.,0,0,0,0,0
+Rigorous trials and independent replications are warranted.,0,0,0,0,0
+Effectiveness of a homeopathic complex medicine in infantile colic: A randomized multicenter study,1,0,0,0,0
+Objectives: Infantile colic is a common benign disease occurring in early infancy that may have a great impact on family life. ,0,0,0,0,0
+"In the present study, the effectiveness and safety of the complex homeopathic medicine Enterokind was compared with Simethicone for treating infantile colic.",0,0,0,0,0
+"Design and setting: Current data were drawn from a prospective, multicenter, randomized, open-label, controlled clinical trial that was conducted in 2009 in 3 Russian outpatient clinics.",1,0,0,0,0
+"Children received either Enterokind (Chamomilla D6, Cina D6, Colocynthis D6, Lac defloratum D6 and Magnesium chloratum D6) or Simethicone.",0,0,0,0,0
+Data from infants ≤ 6 months with infantile colic are presented here.,0,0,0,0,0
+Main outcome measures: The main outcomes assessments were the change of total complaints score (maximum 17 points) and total objective symptoms score (maximum 22 points) after 10 days of treatment.,0,0,0,0,0
+Results: Data from 125 infants ≤ 6 months with infantile colic were analyzed.,0,0,0,0,0
+"The differences in total complaints and objective symptoms scores between baseline and day 10, estimated from the ANCOVA model, were found to be highly significant (p < 0.0001; ITT) in favor of Enterokind, both for complaints (Δ=-2.38; 95% confidence interval (CI): [-2.87; -1.89]) and for objective symptoms (Δ=-2.07; 95% CI: [-2.65; -1.49]).",0,0,0,0,0
+"1 adverse event (AE), vomiting, occurred under Enterokind and was rated to be unlikely related to it; 4 AEs occurred under Simethicone. ",0,0,0,0,0
+All AEs were non-serious.,0,0,0,0,0
+Conclusions: The current study indicates that Enterokind is an effective and safe homeopathic treatment for functional intestinal colic in infants ≤ 6 months.,0,0,0,0,0
+A randomized controlled trial of the ketogenic diet in refractory childhood epilepsy,1,0,0,0,0
+Objective: To evaluate the efficacy and tolerability of the ketogenic diet (KD) during the first 4 months of a randomized controlled trial (RCT) in refractory epilepsy patients aged 1-18 years.,1,0,0,0,0
+"Methods: Children and adolescents with refractory epilepsy, not eligible for epilepsy surgery, were included. ",0,0,0,0,0
+"Following 1 month at baseline, patients were randomized to either the KD or to care as usual (CAU).",1,0,0,0,0
+Primary outcome is the proportion of patients with at least 50% reduction in seizure frequency at 4 months. ,0,0,0,0,0
+"Secondary outcomes are mean percentage of baseline seizures, seizure severity, and side effects.",0,0,0,0,0
+"Results: Fifty-seven patients were randomized; nine dropped out, leaving 48 for analysis (i.e., 26 KD, 22 CAU). ",1,0,1,0,0
+"In an intention-to-treat analysis, 13 patients (50%) treated with the KD and four patients (18.2%) of the CAU group were responders.",0,0,0,0,0
+"Mean seizure frequency at 4 months compared to baseline, after removal of two outliers in the KD group, was significantly lower (P = 0.024) in the KD group (56%) (95% CI: 36-76) than in the CAU group (99%) (95% CI: 65-133%).",0,0,0,0,0
+Twice as many patients in the KD group had a relevant decrease in seizure severity score (P = 0.070),0,0,0,0,0
+Patients treated with the KD had a significantly higher score for gastrointestinal symptoms (P = 0.021) without an increase in the total score of side effects.,0,0,0,0,0
+Conclusions: This trial provides class I evidence that the KD is an effective therapy in children and adolescents with refractory epilepsy compared with CAU.,0,0,0,0,0
+Most often reported side effects are gastrointestinal symptoms.,0,0,0,0,0
+The study has been registered with the Netherlands Trial Registry (NTR2498).,0,0,0,0,0
+Tocilizumab in Patients Hospitalized with Covid-19 Pneumonia,0,0,0,0,0
+Background: Coronavirus disease 2019 (Covid-19) pneumonia is often associated with hyperinflammation. ,0,0,0,0,0
+"Despite the disproportionate incidence of Covid-19 among underserved and racial and ethnic minority populations, the safety and efficacy of the anti-interleukin-6 receptor antibody tocilizumab in patients from these populations who are hospitalized with Covid-19 pneumonia are unclear.",0,0,0,0,0
+Methods: We randomly assigned (in a 2:1 ratio) patients hospitalized with Covid-19 pneumonia who were not receiving mechanical ventilation to receive standard care plus one or two doses of either tocilizumab (8 mg per kilogram of body weight intravenously) or placebo. ,1,0,0,1,0
+Site selection was focused on the inclusion of sites enrolling high-risk and minority populations. ,0,0,0,0,0
+The primary outcome was mechanical ventilation or death by day 28.,0,0,0,0,0
+"Results: A total of 389 patients underwent randomization, and the modified intention-to-treat population included 249 patients in the tocilizumab group and 128 patients in the placebo group; 56.0% were Hispanic or Latino, 14.9% were Black, 12.7% were American Indian or Alaska Native, 12.7% were non-Hispanic White, and 3.7% were of other or unknown race or ethnic group.",1,0,0,0,0
+"The cumulative percentage of patients who had received mechanical ventilation or who had died by day 28 was 12.0% (95% confidence interval [CI], 8.5 to 16.9) in the tocilizumab group and 19.3% (95% CI, 13.3 to 27.4) in the placebo group (hazard ratio for mechanical ventilation or death, 0.56; 95% CI, 0.33 to 0.97; P = 0.04 by the log-rank test).",0,0,0,0,0
+"Clinical failure as assessed in a time-to-event analysis favored tocilizumab over placebo (hazard ratio, 0.55; 95% CI, 0.33 to 0.93). ",0,0,0,0,0
+"Death from any cause by day 28 occurred in 10.4% of the patients in the tocilizumab group and 8.6% of those in the placebo group (weighted difference, 2.0 percentage points; 95% CI, -﻿5.2 to 7.8).",0,0,0,0,0
+"In the safety population, serious adverse events occurred in 38 of 250 patients (15.2%) in the tocilizumab group and 25 of 127 patients (19.7%) in the placebo group.",0,0,0,0,0
+"Conclusions: In hospitalized patients with Covid-19 pneumonia who were not receiving mechanical ventilation, tocilizumab reduced the likelihood of progression to the composite outcome of mechanical ventilation or death, but it did not improve survival.",0,0,0,0,0
+No new safety signals were identified.,0,0,0,0,0
+COVID-19 mortality in patients on anticoagulants and antiplatelet agents,0,0,0,0,0
+"Coagulopathy (Tang, et al 2020) and a prothrombotic diathesis with high D‐dimer and fibrinogen levels (Al‐Samkari, et al 2020) are associated with coronavirus disease 2019 (COVID‐19) caused by severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2).",0,0,0,0,0
+Extensive thrombosis in small vessels and the microvasculature in lungs and extrapulmonary organs has been confirmed histologically (Zhang et al 2020). ,0,0,0,0,0
+"Early studies showed that the venous thromboembolism (VTE) incidence in hospitalised COVID‐19 patients can be as high as 25% (Songping, et al 2020), and more recent studies have indicated this can be expanded to other macrovascular thrombotic complications, such as a higher than expected prevalence of pulmonary emboli in patients with COVID‐19 (Klok, et al 2020, Stoneham, et al).",0,0,0,0,0
+Sialendoscopy increases saliva secretion and reduces xerostomia up to 60 weeks in Sjögren's syndrome patients: a randomized controlled study,1,0,0,0,0
+Objective: To assess the effect of sialendoscopy of the major salivary glands on salivary flow and xerostomia in patients with Sjögren's syndrome (SS).,0,0,0,0,0
+"Methods: Forty-five patients with SS were randomly assigned to a control group (no irrigation, control, n = 15), to irrigation of the major salivary glands with saline (saline, n = 15) or to irrigation with saline followed by corticosteroid application (triamcinolone acetonide in saline, saline/TA, n = 15).",1,0,0,0,0
+"Unstimulated whole saliva flow (UWSF), chewing-stimulated whole saliva flow (SWSF), citric acid-stimulated parotid flow, Clinical Oral Dryness Score (CODS), Xerostomia Inventory (XI) and EULAR SS Patient Reported Index (ESSPRI) scores were obtained 1 week before (T0), and 1, 8, 16, 24, 36, 48 and 60 weeks after sialendoscopy.",0,0,0,0,0
+Data were analysed using linear mixed models.,0,0,0,0,0
+"Results: Irrespective of the irrigation protocol used, sialendoscopy resulted in an increased salivary flow during follow-up up to 60 weeks",0,0,0,0,0
+"Significant between-group differences in the longitudinal course of outcomes were found for UWSF, SWSF, XI and ESSPRI scores (P = 0.028, P = 0.001, P = 0.03, P = 0.021, respectively)",0,0,0,0,0
+"UWSF at 60 weeks was higher compared with T0 in the saline group (median: 0.14 vs median: 0.10, P = 0.02) and in the saline/TA group (median: 0.20, vs 0.13, P = 0.035).",0,0,0,0,0
+"In the saline/TA group SWSF at 48 weeks was higher compared with T0 (median: 0.74 vs 0.38, P = 0.004).",0,0,0,0,0
+"Increase in unstimulated salivary flow was also reflected in improved CODS, XI and ESSPRI scores compared with baseline.",0,0,0,0,0
+Conclusion: Irrigation of the major salivary glands in patients with SS increases salivary flow and reduces xerostomia.,0,0,0,0,0
+"Homeopathy for depression: a randomized, partially double-blind, placebo-controlled, four-armed study (DEP-HOM)",1,1,0,0,0
+Background: The specific clinical benefit of the homeopathic consultation and of homeopathic remedies in patients with depression has not yet been investigated.,0,0,0,0,0
+"Aims: To investigate the 1) specific effect of individualized homeopathic Q-potencies compared to placebo and 2) the effect of an extensive homeopathic case taking (case history I) compared to a shorter, rather conventional one (case history II) in the treatment of acute major depression (moderate episode) after six weeks.",0,0,0,0,0
+"Methods: A randomized, partially double-blind, placebo-controlled, four-armed trial using a 2×2 factorial design with a six-week study duration per patient was performed.",1,1,0,1,0
+"Results: A total of 44 from 228 planned patients were randomized (2∶1∶2∶1 randomization: 16 homeopathic Q-potencies/case history I, 7 placebo/case history I, 14 homeopathic Q-potencies/case history II, 7 placebo/case history II).",1,0,0,1,0
+"Because of recruitment problems, the study was terminated prior to full recruitment, and was underpowered for the preplanned confirmatory hypothesis testing.",0,0,0,0,0
+Exploratory data analyses showed heterogeneous and inconclusive results with large variance in the sample.,0,0,0,0,0
+The mean difference for the Hamilton-D after 6 weeks was 2.0 (95%CI -1.2;5.2) for Q-potencies vs. placebo and -3.1 (-5.9;-0.2) for case history I vs. case history II. ,0,0,0,0,0
+"Overall, no consistent or clinically relevant results across all outcomes between homeopathic Q-potencies versus placebo and homeopathic versus conventional case taking were observed.",0,0,0,0,0
+The frequency of adverse events was comparable for all groups.,0,0,0,0,0
+"Conclusions: Although our results are inconclusive, given that recruitment into this trial was very difficult and we had to terminate early, we cannot recommend undertaking a further trial addressing this question in a similar setting. Prof. Dr. Claudia Witt had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.",0,0,0,0,0
+Homeopathy for attention-deficit/hyperactivity disorder: a pilot randomized-controlled trial,1,0,0,0,0
+Objectives: The aim of this study was to carry out a preliminary trial evaluating the effectiveness of homeopathy in the treatment of attention-deficit/hyperactivity disorder (ADHD).,0,0,0,0,0
+"Design: This work was a randomized, double-blind, placebo-controlled trial.",1,1,0,0,0
+Settings/location: This study was conducted in a private homeopathic clinic in the Seattle metropolitan area.,0,0,0,0,0
+Subjects: Subjects included children 6-12 years of age meeting Diagnostic and Statistical Manual of Mental Disorders 4th edition (DSM-IV) criteria for ADHD.,0,0,0,0,0
+Interventions: Forty-three subjects were randomized to receive a homeopathic consultation and either an individualized homeopathic remedy or placebo.,1,0,0,0,0
+Patients were seen by homeopathic physicians every 6 weeks for 18 weeks.,0,0,0,0,0
+"Outcome measures: Outcome measures included the Conner's Global Index-Parent, Conner's Global Index- Teacher, Conner's Parent Rating Scale-Brief, Continuous Performance Test, and the Clinical Global Impression Scale.",0,0,0,0,0
+Results: There were no statistically significant differences between homeopathic remedy and placebo groups on the primary or secondary outcome variables.,0,0,0,0,0
+"However, there were statistically and clinically significant improvements in both groups on many of the outcome measures.",0,0,0,0,0
+Conclusions: This pilot study provides no evidence to support a therapeutic effect of individually selected homeopathic remedies in children with ADHD.,0,0,0,0,0
+A therapeutic effect of the homeopathic encounter is suggested and warrants further evaluation.,0,0,0,0,0
+Future studies should be carried out over a longer period of time and should include a control group that does not receive the homeopathic consultation,0,0,0,0,0
+Comparison to conventional stimulant medication for ADHD also should be considered.,0,0,0,0,0
+"Adjunct prednisone therapy for patients with community-acquired pneumonia: a multicentre, double-blind, randomised, placebo-controlled trial",1,1,0,0,0
+Background: Clinical trials yielded conflicting data about the benefit of adding systemic corticosteroids for treatment of community-acquired pneumonia.,0,0,0,0,0
+We assessed whether short-term corticosteroid treatment reduces time to clinical stability in patients admitted to hospital for community-acquired pneumonia.,0,0,0,0,0
+"Methods: In this double-blind, multicentre, randomised, placebo-controlled trial, we recruited patients aged 18 years or older with community-acquired pneumonia from seven tertiary care hospitals in Switzerland within 24 h of presentation.",1,1,0,0,0
+Patients were randomly assigned (1:1 ratio) to receive either prednisone 50 mg daily for 7 days or placebo. ,0,0,0,0,0
+The computer-generated randomisation was done with variable block sizes of four to six and stratified by study centre.,1,0,0,1,0
+"The primary endpoint was time to clinical stability defined as time (days) until stable vital signs for at least 24 h, and analysed by intention to treat.",0,0,0,0,0
+" This trial is registered with ClinicalTrials.gov, number NCT00973154.",0,0,0,0,0
+"Findings: From Dec 1, 2009, to May 21, 2014, of 2911 patients assessed for eligibility, 785 patients were randomly assigned to either the prednisone group (n=392) or the placebo group (n=393).",1,0,0,0,0
+"Median time to clinical stability was shorter in the prednisone group (3·0 days, IQR 2·5-3·4) than in the placebo group (4·4 days, 4·0-5·0; hazard ratio [HR] 1·33, 95% CI 1·15-1·50, p<0·0001).",0,0,0,0,0
+Pneumonia-associated complications until day 30 did not differ between groups (11 [3%] in the prednisone group and 22 [6%] in the placebo group; odds ratio [OR] 0·49 [95% CI 0·23-1·02]; p=0·056).,0,0,0,0,0
+"The prednisone group had a higher incidence of in-hospital hyperglycaemia needing insulin treatment (76 [19%] vs 43 [11%]; OR 1·96, 95% CI 1·31-2·93, p=0·0010). ",0,0,0,0,0
+Other adverse events compatible with corticosteroid use were rare and similar in both groups.,0,0,0,0,0
+Interpretation: Prednisone treatment for 7 days in patients with community-acquired pneumonia admitted to hospital shortens time to clinical stability without an increase in complications.,0,0,0,0,0
+This finding is relevant from a patient perspective and an important determinant of hospital costs and efficiency.,0,0,0,0,0
+Effect of corticosteroids on treatment failure among hospitalized patients with severe community-acquired pneumonia and high inflammatory response: a randomized clinical trial,1,0,0,0,0
+"Importance: In patients with severe community-acquired pneumonia, treatment failure is associated with excessive inflammatory response and worse outcomes.",0,0,0,0,0
+" Corticosteroids may modulate cytokine release in these patients, but the benefit of this adjunctive therapy remains controversial.",0,0,0,0,0
+Objective: To assess the effect of corticosteroids in patients with severe community-acquired pneumonia and high associated inflammatory response.,0,0,0,0,0
+"Design, setting, and participants: Multicenter, randomized, double-blind, placebo-controlled trial conducted in 3 Spanish teaching hospitals involving patients with both severe community-acquired pneumonia and a high inflammatory response, which was defined as a level of C-reactive protein greater than 150 mg/L at admission. ",1,1,0,0,0
+Patients were recruited and followed up from June 2004 through February 2012.,0,0,0,0,0
+Interventions: Patients were randomized to receive either an intravenous bolus of 0.5 mg/kg per 12 hours of methylprednisolone (n = 61) or placebo (n = 59) for 5 days started within 36 hours of hospital admission.,0,0,0,0,0
+"Main outcomes and measures: The primary outcome was treatment failure (composite outcome of early treatment failure defined as [1] clinical deterioration indicated by development of shock, [2] need for invasive mechanical ventilation not present at baseline, or [3] death within 72 hours of treatment; or composite outcome of late treatment failure defined as [1] radiographic progression, [2] persistence of severe respiratory failure, [3] development of shock, [4] need for invasive mechanical ventilation not present at baseline, or [5] death between 72 hours and 120 hours after treatment initiation; or both early and late treatment failure)",0,0,0,0,0
+In-hospital mortality was a secondary outcome and adverse events were assessed.,0,0,0,0,0
+"Results: There was less treatment failure among patients from the methylprednisolone group (8 patients [13%]) compared with the placebo group (18 patients [31%]) (P = .02), with a difference between groups of 18% (95% CI, 3% to 32%)",0,0,0,0,0
+"Corticosteroid treatment reduced the risk of treatment failure (odds ratio, 0.34 [95% CI, 0.14 to 0.87]; P = .02).",0,0,0,0,0
+" In-hospital mortality did not differ between the 2 groups (6 patients [10%] in the methylprednisolone group vs 9 patients [15%] in the placebo group; P = .37); the difference between groups was 5% (95% CI, -6% to 17%). Hyperglycemia occurred in 11 patients (18%) in the methylprednisolone group and in 7 patients (12%) in the placebo group (P = .34).",0,0,0,0,0
+"Conclusions and relevance: Among patients with severe community-acquired pneumonia and high initial inflammatory response, the acute use of methylprednisolone compared with placebo decreased treatment failure. If replicated, these findings would support the use of corticosteroids as adjunctive treatment in this clinical population.",0,0,0,0,0
+"The ASTIS trial was an investigator-initiated, randomized, open-label, parallel-group trial conducted in 10 countries at 29 centers with access to a European Group for Blood and Marrow Transplantation–registered transplant facility.",1,0,0,0,0
+"15 Patients were eligible if they were between 18 and 65 years of age; had diffuse cutaneous systemic sclerosis according to American Rheumatism Association criteria,16 with maximum disease duration of 4 years; minimum modified Rodnan skin score (mRSS) of 15 (range, 0-51, with higher scores indicating more severe skin thickening); and involvement of heart, lungs, or kidneys (eAppendix in the Supplement). ",0,0,0,0,0
+Prior treatment with cyclophosphamide was allowed up to a cumulative dose of 5 g intravenously or up to 2 mg/kg body weight orally for 3 months.,0,0,0,0,0
+Patients with severe major organ involvement including severe pulmonary arterial hypertension (PAH) (mean pulmonary artery pressure >50 mm Hg) or serious comorbidities were excluded. ,0,0,0,0,0
+"The protocol was amended in 2004 to allow inclusion of patients with disease duration of 2 years or less and no major organ dysfunction as defined above, provided they had an mRSS of at least 20 and an erythrocyte sedimentation rate greater than 25 mm in the first hour and/or hemoglobin less than 11 g/dL not explained by causes other than active scleroderma. ",0,0,0,0,0
+"The protocol was further amended in 2008 to make it compliant with the European Union Directive for Clinical Trials, to change the power calculation because of a lower than expected accrual and event rate, and to include guidance on monitoring and treatment of Epstein-Barr virus (EBV) reactivation after HSCT.",0,0,0,0,0
+"After registration, patients were randomly assigned in a 1:1 ratio by blocked randomization to receive HSCT or 12 intravenous pulses of cyclophosphamide (Figure 1).",1,0,0,1,0
+"Block randomization was performed centrally by telephone at the study administration office according to a computer-generated randomization program for each site, with random block sizes (2, 4, 6).",1,0,0,1,0
+"Treatment was allocated within blocks according to an optimum assignment procedure (minimization) to balance the investigational and standard treatment groups for age (≤40 years, >40 years) and disease duration (<2 years, ≥2 years) but included a 25% chance to be assigned to the nonoptimal group.",0,0,0,0,0
+Patients and assessors were not blinded,0,0,0,0,0
+"Ten patients with SSc were randomized to ACHIM (n = 5) or placebo (n = 5) in a double-blind, placebo-controlled 16-week pilot. ",1,1,0,0,0
+"All patients had mild to severe upper and lower GI symptoms including diarrhea, distention/bloating and/or fecal incontinence at baseline.",0,0,0,0,0
+Gastroduodenoscopy transfer of ACHIM or placebo was performed at weeks 0 and 2.,0,0,0,0,0
+Primary endpoints were safety and clinical efficacy on GI symptoms assessed at weeks 4 and 16. ,0,0,0,0,0
+"Secondary endpoints included changes in relative abundance of total, immunoglobulin (Ig) A- and IgM-coated fecal bacteria measured by 16s rRNA sequencing.",0,0,0,0,0
+Eligible participants were randomly assigned to treatment. ,1,0,0,0,0
+An unblinded staff member (TG) who was not otherwise involved in the clinical aspects of the study generated the random sequence for treatment assignment. ,1,0,0,1,0
+All patients and care providers responsible for assessing patients during the study and outcomes were blinded. ,0,1,0,0,0
+"Active treatment and placebo were packaged, and handled so that participants and study staff were not able to distinguish between treatments. ",0,0,0,0,1
+"Participants, study staff performing safety and efficacy assessments and analyzing safety and other trial data were blinded to group assignment until the database was locked.",0,1,0,0,0
+"The study was registered at clinicaltrials.gov (NCT03444220), one month after study start while still all participants and staff was blinded. ",0,1,0,0,0
+"This was a double-blind, randomised, placebo-controlled, pilot study",1,1,0,0,0
+"This double-blind, placebo-controlled trial conducted at 41 centres in Europe and North America randomised 188 patients with SSc with at least 1 active DU ('cardinal ulcer') to bosentan 62.5 mg twice daily for 4 weeks and 125 mg twice daily thereafter for 20 weeks (n=98) or matching placebo (n=90; total 24 weeks). ",0,1,0,0,0
+"After screening, patients were randomised to bosentan or placebo (1:1 ratio) by sequential allocation of randomisation numbers distributed to each centre in blocks of four. ",1,0,0,1,0
+"This double-blind, randomised, parallel-group, placebo-controlled study consisted of a ≤2-week screening period, a 24-week treatment period and an 8-week post-treatment follow-up period. ",1,1,0,0,0
+"In this randomised, placebo-controlled trial, bosentan treatment was associated with a 30% reduction in the number of new DUs over the 24-week treatment period but did not result in a treatment effect on healing of the cardinal ulcer.",1,0,0,0,0
+Treatment-emergent hypertension and efficacy in the phase 3 Study of (E7080) lenvatinib in differentiated cancer of the thyroid (SELECT),0,0,0,0,0
+Background: Hypertension (HTN) is an established class effect of vascular endothelial growth factor receptor (VEGFR) inhibition.,0,0,0,0,0
+"In the phase 3 Study of (E7080) Lenvatinib in Differentiated Cancer of the Thyroid (SELECT) trial, HTN was the most frequent adverse event of lenvatinib, an inhibitor of VEGFR1, VEGFR2, VEGFR3, fibroblast growth factor receptor 1 (FGFR1), FGFR2, FGFR3, FGFR4, platelet-derived growth factor receptor α (PDGFRα), ret proto-oncogene (RET), and stem cell factor receptor (KIT).",0,0,0,0,0
+This exploratory analysis examined treatment-emergent hypertension (TE-HTN) and its relation with lenvatinib efficacy and safety in SELECT.,0,0,0,0,0
+"Methods: In the multicenter, double-blind SELECT trial, 392 patients with progressive radioiodine-refractory differentiated thyroid cancer (RR-DTC) were randomized 2:1 to lenvatinib (24 mg/d on a 28-day cycle) or placebo.",1,1,0,1,0
+Survival endpoints were assessed with Kaplan-Meier estimates and log-rank tests.,0,0,0,0,0
+The influence of TE-HTN on progression-free survival (PFS) and overall survival (OS) was analyzed with univariate and multivariate Cox proportional hazards models.,0,0,0,0,0
+"Results: Overall, 73% of lenvatinib-treated patients and 15% of placebo-treated patients experienced TE-HTN.",0,0,0,0,0
+"The median PFS for lenvatinib-treated patients with (n = 190) and without TE-HTN (n = 71) was 18.8 and 12.9 months, respectively (hazard ratio [HR], 0.59; 95% confidence interval [CI], 0.39-0.88; P = .0085).",0,0,0,0,0
+"For lenvatinib-treated patients, the objective response rate was 69% with TE-HTN and 56% without TE-HTN (odds ratio, 1.72; 95% CI, 0.98-3.01).",0,0,0,0,0
+"The median change in tumor size for patients with and without TE-HTN was -45% and -40%, respectively (P = .2).",0,0,0,0,0
+"The median OS was not reached for patients with TE-HTN; for those without TE-HTN, it was 21.7 months (HR, 0.43; 95% CI, 0.27-0.69; P = .0003).",0,0,0,0,0
+"Conclusions: Although HTN is a clinically significant adverse event that warrants monitoring and management, TE-HTN was significantly correlated with improved outcomes in patients with RR-DTC, indicating that HTN may be predictive for lenvatinib efficacy in this population. Cancer 2018;124:2365-72. © 2018 American Cancer Society.",0,0,0,0,0
+"Comparison of the effect of denosumab and alendronate on BMD and biochemical markers of bone turnover in postmenopausal women with low bone mass: a randomized, blinded, phase 3 trial",1,1,0,0,0
+"Denosumab is a fully human monoclonal antibody that inhibits bone resorption by neutralizing RANKL, a key mediator of osteoclast formation, function, and survival. ",0,0,0,0,0
+"This phase 3, multicenter, doubleblind study compared the efficacy and safety of denosumab with alendronate in postmenopausal women with low bone mass.",0,1,0,0,0
+One thousand one hundred eighty-nine postmenopausal women with a T-score <or= -2.0 at the lumbar spine or total hip were randomized 1:1 to receive subcutaneous denosumab injections (60 mg every 6 mo [Q6M]) plus oral placebo weekly (n = 594) or oral alendronate weekly (70 mg) plus subcutaneous placebo injections Q6M (n = 595). ,1,0,0,1,0
+"Changes in BMD were assessed at the total hip, femoral neck, trochanter, lumbar spine, and one-third radius at 6 and 12 mo and in bone turnover markers at months 1, 3, 6, 9, and 12. ",0,0,0,0,0
+Safety was evaluated by monitoring adverse events and laboratory values.,0,0,0,0,0
+"At the total hip, denosumab significantly increased BMD compared with alendronate at month 12 (3.5% versus 2.6%; p < 0.0001).",0,0,0,0,0
+"Furthermore, significantly greater increases in BMD were observed with denosumab treatment at all measured skeletal sites (12-mo treatment difference: 0.6%, femoral neck; 1.0%, trochanter; 1.1%, lumbar spine; 0.6%, one-third radius; p <or= 0.0002 all sites).",0,0,0,0,0
+Denosumab treatment led to significantly greater reduction of bone turnover markers compared with alendronate therapy.,0,0,0,0,0
+Adverse events and laboratory values were similar for denosumab- and alendronate-treated subjects.,0,0,0,0,0
+Denosumab showed significantly larger gains in BMD and greater reduction in bone turnover markers compared with alendronate.,0,0,0,0,0
+The overall safety profile was similar for both treatments.,0,0,0,0,0
+"Success and Behavior During Atraumatic Restorative Treatment, the Hall Technique, and the Stainless Steel Crown Technique for Primary Molar Teeth",0,0,0,0,0
+"Purposes: The purposes of this prospective trial were to: (1) compare the clinical and radiographic outcomes of three restorative methods -modified atraumatic restorative treatment (mART), the Hall technique (HT), and stainless steel crown (SSC)-in primary molars with multi-surface carious lesions; and (2) assess child behavior throughout these treatments.",0,0,0,0,0
+"Methods: In this randomized controlled trial (RCT), 123 primary molars in four- to nine-year-old children were randomly divided into treatment groups (HT, mART, and SSC).",1,0,0,0,0
+"Variables, including signs of failure, treatment time, child's discomfort, child's behavior, and canine overbite relationship in HT, were recorded immediately after the treatment and at six- and 12-month recalls.",0,0,0,0,0
+ Results: Failures occurred most significantly for mART at all recalls (P=0.001). ,0,0,0,0,0
+The treatment time was significantly higher in SSC.,0,0,0,0,0
+There was no significant difference in the child-assessment of discomfort (P=0.814). ,0,0,0,0,0
+"The child's behavior, as evaluated by the dentist, however, was significantly better for the SSC group.",0,0,0,0,0
+Alterations to the canine overbite relationship of HT decreased significantly during recalls (P<0.001),0,0,0,0,0
+Conclusions: The high success and shorter treatment time of the Hall technique support its consideration as an alternative to the conventional technique for the treatment of carious primary teeth with multisurface lesions. ,0,0,0,0,0
+The results for modified atraumatic restorative treatment were not as satisfying.,0,0,0,0,0
+A randomized controlled trial of home bleaching of tetracycline-stained teeth,1,0,0,0,0
+Objectives: To investigate the effectiveness of two home bleaching modalities on whitening of tetracycline-stained teeth (TST).,0,0,0,0,0
+Methods: A randomized controlled trial on the bleaching effect of 15% carbamide peroxide gel loaded in tray and 6.5% hydrogen peroxide strip in subjects with TST was performed. ,1,0,0,0,0
+"Eligible subjects were judged independently by two assessors, and randomly assigned into the tray or the strip group.",1,0,0,1,0
+"Lightness (L*), redness (a*) and yellowness (b*) were measured with colorimeter at baseline, one, two and three months",0,0,0,0,0
+Any adverse reaction associated with bleaching were also recorded.,0,0,0,0,0
+Overall colour changes (ΔE) were analysed by one-sample and independent t-test/Wilcoxon test at significance level α=0.05.,0,0,0,0,0
+Result: Twelve and fourteen participants were allocated to the tray and the strip group respectively.,0,0,0,0,0
+Both groups experienced noticeable and significant L*a*b* improvement at the end of the trial in comparison to the baseline (p<0.05).,0,0,0,0,0
+Significant improvement was observed in the first month for the tray group (p<0.05) and in the first two months for the strip group (p<0.05). ,0,0,0,0,0
+"While greater lightness improvement was observed in the tray group over the strip group in the first month (p=0.02), the reverse was noticed in the second month (p=0.01). ",0,0,0,0,0
+There was no difference between two groups at the end of this trial (p<0.05) and no significant adverse reactions were observed.,0,0,0,0,0
+"Conclusion: Over a three-month period, 6.0% hydrogen peroxide strip performed equally well as the 15% carbamide peroxide tray delivery system in TST.",0,0,0,0,0
+Clinical significance: Home bleaching systems produce noticeable tooth whitening effect in subjects with tetracycline-stained teeth.,0,0,0,0,0
+Six months versus two years of oral anticoagulation after a first episode of unprovoked deep-vein thrombosis.,0,0,0,0,0
+The PADIS-DVT randomized clinical trial,1,0,0,0,0
+The optimal duration of anticoagulation after a first episode of unprovoked deep-vein thrombosis is uncertain.,0,0,0,0,0
+"We aimed to assess the benefits and risks of an additional 18 months of treatment with warfarin versus placebo, after an initial 6 months of anticoagulation for a first unprovoked proximal deep-vein thrombosis. ",0,0,0,0,0
+"We conducted a multicenter, randomized, double-blind, controlled trial comparing an additional 18 months of warfarin with placebo in patients with a unprovoked proximal deep-vein thrombosis initially treated for 6 months (treatment period: 18 months; follow up after treatment period: 24 months). ",1,1,0,0,0
+The primary outcome was the composite of recurrent venous thromboembolism or major bleeding at 18 months.,0,0,0,0,0
+"Secondary outcomes were the composite at 42 months, as well as each component of the composite, and death unrelated to pulmonary embolism or major bleeding, at 18 and 42 months.",0,0,0,0,0
+All outcomes were centrally adjudicated. ,0,0,0,0,0
+"A total of 104 patients, enrolled between July 2007 and October 2013 were analyzed on an intention-to-treat basis; no patient was lost to follow-up.",0,0,1,0,0
+"During the 18-month treatment period, the primary outcome occurred in none of the 50 patients in the warfarin group and in 16 out of 54 patients (cumulative risk, 29.6%) in the placebo group (hazard ratio, 0.03; 95% confidence interval: 0.01 to 0.09; P<0.001). ",0,0,0,0,0
+"During the entire 42-month study period, the composite outcome occurred in 14 patients (cumulative risk, 36.8%) in the warfarin group and 17 patients (cumulative risk, 31.5%) in the placebo group (hazard ratio, 0.72; 95% confidence interval: 0.35-1.46).",0,0,0,0,0
+"In conclusion, after a first unprovoked proximal deep-vein thrombosis initially treated for 6 months, an additional 18 months of warfarin therapy reduced the composite of recurrent venous thrombosis and major bleeding compared to placebo. ",0,0,0,0,0
+"However, this benefit was not maintained after stopping anticoagulation.",0,0,0,0,0
+Effects of aerobic exercise on cognition and hippocampal volume in Alzheimer's disease: study protocol of a randomized controlled trial (The FIT-AD trial),1,0,0,0,0
+"Background: Alzheimer's disease, a global public health issue, accounts for 60 to 80% of all dementias.",0,0,0,0,0
+" Alzheimer's disease primarily causes cognitive impairment and drugs have only modest short-term effects, highlighting a pressing need to develop effective interventions.",0,0,0,0,0
+Aerobic exercise holds promise for treating cognitive impairment in Alzheimer's disease through biologically sound mechanisms.,0,0,0,0,0
+"Nonetheless, aerobic exercise studies in Alzheimer's disease are limited with mixed findings.",0,0,0,0,0
+"Methods/design: This pilot randomized controlled trial will investigate the effects of a 6-month, individualized, moderate-intensity cycling intervention (20 to 50 minutes per session, 3 times a week) on cognition and hippocampal volume in community-dwelling older adults with mild-to-moderate Alzheimer's disease.",1,0,0,0,0
+The specific aims are to: 1) determine the immediate effect of the cycling intervention on cognition in Alzheimer's disease; 2) examine if the cycling intervention slows cognitive decline in Alzheimer's disease from baseline to 12 months; and 3) assess the effect of aerobic exercise on hippocampal volume over 12 months. ,0,0,0,0,0
+Ninety subjects will be randomized on a 2:1 allocation ratio to cycling or attention control (low-intensity stretching) and followed for another 6 months.,1,0,0,1,0
+Allocations will be concealed to all investigators and outcome assessors will be blinded to group assignments and previous data.,0,1,0,0,0
+"Cognition will be measured by the Alzheimer's disease Assessment Scale-Cognition at baseline before randomization and at 3, 6, 9, and 12 months.",1,0,0,0,0
+Hippocampal volume will be measured by magnetic resonance imaging at baseline and 6 and 12 months.,0,0,0,0,0
+The sample size of 90 will give 80% power to detect a 2.5-point difference in within-group changes in the Alzheimer's disease Assessment Scale-Cognition at 6 months for the cycling group.,0,0,0,0,0
+Discussion: Findings from this study will address the critical gap of exercise efficacy in Alzheimer's disease and use of magnetic resonance imaging as an outcome measure in clinical trials.,0,0,0,0,0
+This study will provide a potential treatment that may increase physical function and quality of life and curb the prohibitive costs for the growing dementia population.,0,0,0,0,0
+Home based training for dexterity in Parkinson's disease: A randomized controlled trial,1,0,0,0,0
+Background: Patients with Parkinson's disease exhibit disturbed manual dexterity.,0,0,0,0,0
+"This impairment leads to difficulties in activities of daily living, such as buttoning a shirt or hand-writing.",0,0,0,0,0
+"The aim of the present study was to investigate the effectiveness of a home-based dexterity program on fine motor skills in a single-blinded, randomized controlled trial, in patients with Parkinson's disease.",1,0,0,0,0
+"Methods: One hundred and three patients with Parkinson's disease (aged between 48 and 80 years, Hoehn & Yahr stage I-IV) were randomized to either a home-based dexterity program (HOMEDEXT) or Thera-band program.",1,0,0,0,0
+"All patients trained over a period of 4 weeks, 5 times/week, 30 min for each session.",0,0,0,0,0
+" A baseline, post-intervention, and follow-up assessment (12 weeks later, time period without intervention) were done. ",0,0,0,0,0
+ The primary outcome measure was dexterity as measured with the Nine Hole peg test (9-HPT).,0,0,0,0,0
+"Secondary outcome measures included strength, motor parkinsonian symptoms, dexterity-related activities of daily living (ADL) and Health-related Quality of Life (HrQoL).",0,0,0,0,0
+Results: There was a significant difference in favor of the HOMEDEXT group as compared to the Thera-band group on the primary outcome 9-HPT (p = 0.006) and dexterity-related ADL (p = 0.02) at post intervention.,0,0,0,0,0
+"No significant differences were found for the other outcomes, nor at follow-up.",0,0,0,0,0
+"Conclusion: This is the first randomized controlled trial showing that an intensive, task specific home-based dexterity program significantly improved fine motor skills in Parkinson's disease. ",1,0,0,0,0
+The effect generalized to dexterity-related ADL functions,0,0,0,0,0
+" As these improvements did not sustain, the finding suggest that continuous training is required to maintain the benefit.",0,0,0,0,0
+"Efficacy and safety of belimumab in patients with active systemic lupus erythematosus: a randomised, placebo-controlled, phase 3 trial",1,0,0,0,0
+"Background: Systemic lupus erythematosus is a heterogeneous autoimmune disease that is associated with B-cell hyperactivity, autoantibodies, and increased concentrations of B-lymphocyte stimulator (BLyS). ",0,0,0,0,0
+The efficacy and safety of the fully human monoclonal antibody belimumab (BLyS-specific inhibitor) was assessed in patients with active systemic lupus erythematosus.,0,0,0,0,0
+"Methods: Patients (aged ≥18 years) who were seropositive with scores of at least 6 on the Safety of Estrogens in Lupus Erythematosus National Assessment-Systemic Lupus Erythematosus Disease Activity Index (SELENA-SLEDAI) were enrolled in a multicentre phase 3 study, which was done in Latin America, Asia-Pacific, and eastern Europe.",0,0,0,0,0
+"Patients were randomly assigned by use of a central interactive voice response system in a 1:1:1 ratio to belimumab 1 mg/kg or 10 mg/kg, or placebo by intravenous infusion in 1 h on days 0, 14, and 28, and then every 28 days until 48 weeks, with standard of care. ",1,0,0,1,0
+"Patients, investigators, study coordinators, and sponsors were masked to treatment assignment.",0,0,0,0,0
+Primary efficacy endpoint was improvement in the Systemic Lupus Erythematosus Responder Index (SRI) at week 52 (reduction ≥4 points in SELENA-SLEDAI score; no new British Isles Lupus Assessment Group [BILAG] A organ domain score and no more than 1 new B organ domain score; and no worsening [<0·3 increase] in Physician's Global Assessment [PGA] score) versus baseline.,0,0,0,0,0
+"Method of analysis was by modified intention to treat. This trial is registered with ClinicalTrials.gov, number",0,0,0,0,0
+"Findings: 867 patients were randomly assigned to belimumab 1 mg/kg (n=289) or 10 mg/kg (n=290), or placebo (n=288).",1,0,0,0,0
+"Results of a multicenter, open-label, randomized controlled trial of corticosteroid and cyclophosphamide-based induction therapy",1,0,0,0,0
+Randomization used a 1:1 ratio computer-generated list and was performed centrally with sealed opaque envelopes.,1,0,0,1,0
+"A multicenter, open-label, randomized controlled trial comprising patients ≥65 years old and newly diagnosed as having SNV was conducted.",1,0,0,0,0
+"Patients were studied in a randomized, double-blind, cross-over, placebo controlled study lasting 12 weeks.",1,1,0,0,0
+Participants were randomised into wax bath versus no wax bath groups.,1,0,0,0,0
+A 6-month randomized controlled trial was conducted on SSc patients by comparing a home-based minimally supervised exercise program (exercise on a stationary cycle and strengthening of upper limbs; stretching of the hands) with usual care,1,0,0,0,0
+"Twenty-two were randomly assigned to the intervention group (IG, mean age 63.60 ± 10.40 years) and 22 to the control group (CG, 61.80 ± 14.40 years)",1,0,0,0,0
+Blinding was maintained throughout the study.,0,1,0,0,0
+The allocation key was kept by the compounding pharmacy until completion of the study.,0,0,0,0,1
+Randomization was performed centrally according to study identification (ID) number by personnel not involved with recruitment or analysis.,1,0,0,1,0
+Stratification by site was performed and each site’s randomization was performed in block sizes of 6.,1,0,0,1,0
+Enrolled patients were randomized (1:1:1) to receive rapamycin (1% or 0.1%) or vehicle-only using a computerized random number generator.,1,0,0,1,0
+"Patients were randomized (1:1:1) to topical formulation containing 0.3 g per 30 g (1%) rapamycin, 0.03 g per 30 g (0.1%) rapamycin, or vehicle alone",1,0,0,1,0
+"This prospective, multicenter, randomized, double-blind, vehicle-controlled trial with 6 monthly clinic visits enrolled 179 patients with TSC-related facial angiofibromas not treated within 6 months from May 2012 to March 2014 in 9 clinical sites in the United States and 1 in Australia.",1,1,0,0,0
+A total of 267 subjects agreed to participate in the study and were randomized to either group,1,0,0,0,0
+"In addition, block randomization of patients occurred in groups of 50.",1,0,0,1,0
+"Although the assignment to either group was random, to ensure that the proportion of patients with more or fewer depressive symptoms was approximately the same in both groups, after every 50 patients were recruited, the assignment of patients to each group up to that point was cross-tabulated with respect to PHQ-8 scores. ",1,0,0,1,0
+Stratification based on the PHQ-8 score was pursued because we hypothesized that participants who reported being depressed may have poor coping and self-management skills. ,0,0,0,1,0
+"Randomization was performed using a 1:1 ratio and via computer-generated block randomization, with stratification based on the PHQ-8 score (respectively, <10, ≥10) to ensure that subjects with depressive symptoms were equally distributed in the two groups",1,0,0,1,0
+Participants who completed the consent were randomized to either an intervention or control group,1,0,0,0,0
+"Of the 267 participants who completed baseline questionnaires and were randomized to the intervention (internet: www.selfmanagescleroderma.com) or control (book) group, 123 participants (93%) in the internet group and 124 participants (94%) in the control group completed the 16-week randomized controlled trial (RCT).",1,0,0,0,0
+"We conducted a 16-week randomized, controlled trial",1,0,0,0,0
+This is the first randomised control trial to study the efficacy of rituximab as first-line treatment in CTD-associated ILD,1,0,0,0,0
+"A total of 116 individuals will be randomised 1:1 to each of the two treatment arms, with stratification based on underlying CTD, and will be followed for a total of 48 weeks from first dose",1,0,0,1,0
+"RECITAL is a UK, multicentre, prospective, randomised, double-blind, double-dummy, controlled trial funded by the Efficacy and Mechanism Evaluation Programme of the Medical Research Council and National Institute for Health Research",1,1,0,0,0
+Non-randomised studies of haemopoietic stem-cell transplantation (HSCT) in systemic sclerosis have shown improvements in lung function and skin flexibility but high treatment-related mortality.,0,0,0,0,0
+Sialendoscopy of Salivary Glands Affected by Sjögren Syndrome: A Randomized Controlled Pilot Study,1,0,0,0,0
+"A double-blind, randomized control study was conducted in 39 subjects of 153 pSS subjects for 2 years",1,1,0,0,0
+Twenty patients diagnosed with SS were randomly assigned to a nonintervention control group or a sialendoscopy group,1,0,0,0,0
+Effect of Hydroxychloroquine Treatment on Dry Eyes in Subjects with Primary Sjögren's Syndrome: a Double-Blind Randomized Control Study,1,1,0,0,0
+Forty-nine patients with SS were randomly assigned to a control group (n=15) and two intervention groups: irrigation of the major glands with saline (n=16) or with saline followed by triamcinolone acetonide (TA) in saline (n=18),1,0,0,0,0
+"A double-blind, cross-over, study of oral N-acetylcysteine in Sjögren's syndrome",0,1,0,0,0
+This randomized controlled trial was conducted at the Department of Ophthalmology at Seoul National University Hospital from May 2011 through August 2013,1,0,0,0,0
+"Twenty-six patients with primary or secondary Sjögren's syndrome were treated in a double-blind, cross-over trial for a four week period with oral N-Acetylcysteine and placebo",0,1,0,0,0
+"The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial",1,0,0,0,0
+Fifty-six outpatients with primary and 4 patients with secondary Sjögren's syndrome were assigned randomly into treatment groups of either IFN-alpha or sucralfate (control),1,0,0,0,0
+"This randomised, double-blind, placebo-controlled, phase 2 trial of the Ad5-vectored COVID-19 vaccine was done in a single centre in Wuhan, China",1,1,0,0,0
+Investigators allocated participants at a ratio of 2:1:1 to receive a single injection intramuscularly in the arm,1,0,0,1,0
+"A study identification code with the format ""SAINT-##"" (##: from 01 to 24) will be generated using a sequence of random numbers so that the randomization number does not match the subject identifier",1,0,0,1,0
+The clinical trial team and the patients will be blinded,0,1,0,0,0
+"A double-blind, randomized control study was conducted in 39 pSS subjects from May 2011 through August 2013",1,1,0,0,0
+A separate set of 24 envelopes for emergency unblinding will be kept in the study file,0,0,0,0,1
+"The placebo will not be visibly identical, but it will be administered by staff not involved in the clinical care or participant follow up",0,0,0,0,1
+The randomisation list (block size 4) was generated by an independent statistician,1,0,0,1,0
+"Participants, investigators, and staff undertaking laboratory analyses were masked to group allocation",0,0,0,0,1
+A single-blinded controlled trial was conducted to test the efficacy of low-dose oral human interferon-alpha (IFN-alpha) to improve salivary function in patients with Sjögren's syndrome.,0,1,0,0,0
+The experimental vaccines and placebos had identical packaging with a randomisation number on each vial as the only identifiers,1,0,0,0,1
+"Immunogenicity and safety of a recombinant adenovirus type-5-vectored COVID-19 vaccine in healthy adults aged 18 years or older: a randomised, double-blind, placebo-controlled, phase 2 trial",1,1,0,0,0
+The vaccines of 1 × 1011 and 5 × 1010 viral particles and placebo were randomised at a 2:1:1 ratio,1,0,0,1,0
+"Participants will be randomized to receive a single dose of 400 μg/kg ivermectin or placebo, and the number of patients in the treatment and placebo groups will be the same (1:1 ratio)",1,0,0,1,0
+"Eligible participants were sequentially assigned a randomisation number, according to a blocked randomisation list (block size 4) generated by an independent statistician using SAS software (version 9.4)",1,0,0,1,0
+"Participants, investigators, and staff undertaking laboratory analyses were masked to group allocation",0,0,0,0,1
+Eligible patients will be allocated in a 1:1 ratio using a randomization list generated by the trial statistician using blocks of four to ensure balance between the groups,1,0,0,1,0
+Evaluating the efficacy and safety of human anti-SARS-CoV-2 convalescent plasma in severely ill adults with COVID-19: A structured summary of a study protocol for a randomized controlled trial,1,0,0,0,0
+"SAINT is a single centre, double-blind, randomized, placebo-controlled, superiority trial with two parallel arms",1,1,0,0,0
+The study participants and the clinicians who will evaluate post-treatment outcomes will be blinded to group assignment,0,1,0,0,1
+The blood bank and the clinical research team will not be blinded to group assignment,0,0,0,0,1
+Study participants will be randomized in a 2:1 ratio to receive anti-SARS-CoV-2 plasma versus control plasma using a web-based randomization platform,1,0,0,1,0
+A Cluster-Randomized Trial of Hydroxychloroquine for Prevention of Covid-19,1,0,0,0,0
+"This is a prospective, single-center, phase 2, randomized, controlled trial that is blinded to participants and clinical outcome assessor",1,1,0,0,0
+"We conducted an open-label, cluster-randomized trial involving asymptomatic contacts of patients with polymerase-chain-reaction (PCR)-confirmed Covid-19 in Catalonia, Spain",1,0,0,0,0
+"We randomly assigned clusters of contacts to the hydroxychloroquine group (which received the drug at a dose of 800 mg once, followed by 400 mg daily for 6 days) or to the usual-care group (which received no specific therapy)",1,0,0,0,0
+Included participants will be hospitalized at the time of randomization and plasma infusion,1,0,0,0,0
+A total of 1116 contacts were randomly assigned to receive hydroxychloroquine and 1198 to receive usual care,1,0,0,0,0
+Treatment assignments will be generated using randomly permuted blocks of different sizes to minimize imbalance while also minimizing predictability.,1,0,0,1,0
+"The randomisation code will be generated by the CTU (Clinical Trials Unit, ZKS Freiburg) using the following procedure to ensure that treatment assignment is unbiased and concealed from patients and investigator staff",1,0,0,1,0
+Single-blinded controlled trial of low-dose oral IFN-alpha for the treatment of xerostomia in patients with Sjögren's syndrome,0,1,0,0,0
+Blinding of the participants and the examiner was maintained until all clinical data were collected at 24-month,0,1,0,0,0
+Concealment of participant allocation was kept by a clinical staff who was not involved in the trial,0,0,0,0,1
+"To ensure comparability of the characteristics of the subjects in the intervention and control groups, a stratified block randomization method with a block size of four was applied so that a similar number of pSS and sSS subjects were allocated to each group",1,0,0,1,0
+Dental records of 15 SS patients were randomly selected from those who had participated in previous consecutive studies revealed a mean caries increment of 3.5 surfaces (SD = 2.8) over 24 months,1,0,0,1,0
+"Randomized, double-blind, placebo-controlled clinical trial design which lasted for 24 months was employed",1,1,0,0,0
+Results of this randomized clinical trial did not provide clear evidence to support or refute that quarterly applications of fluoride varnish can prevent development of dental caries in people with Sjögren's syndrome.,1,0,0,0,0
+"In this 24-month randomized, double-blind, placebo-controlled clinical trial, SS patients were randomly assigned to receive either fluoride varnish or placebo gel quarterly",1,1,0,0,0
+"A randomized, double-blind, placebo-controlled clinical trial of fluoride varnish in preventing dental caries of Sjögren's syndrome patients",1,1,0,0,0
+"Forty-five sedentary women fulfilling the American European Consensus Criteria for pSS were randomized to a training group (TG, n = 23) or control group (CG, n = 22).",1,0,0,0,0
+"Cefiderocol versus high-dose, extended-infusion meropenem for the treatment of Gram-negative nosocomial pneumonia (APEKS-NP): a randomised, double-blind, phase 3, non-inferiority trial",1,1,0,0,0
+Background: Nosocomial pneumonia due to multidrug-resistant Gram-negative pathogens poses an increasing challenge,0,0,0,0,0
+"We compared the efficacy and safety of cefiderocol versus high-dose, extended-infusion meropenem for adults with nosocomial pneumonia.",0,0,0,0,0
+"Methods: We did a randomised, double-blind, parallel-group, phase 3, non-inferiority trial in 76 centres in 17 countries in Asia, Europe, and the USA (APEKS-NP). ",1,1,0,0,0
+"We enrolled adults aged 18 years and older with hospital-acquired, ventilator-associated, or health-care-associated Gram-negative pneumonia, and randomly assigned them (1:1 by interactive response technology) to 3-h intravenous infusions of either cefiderocol 2 g or meropenem 2 g every 8 h for 7-14 days.",1,0,0,1,0
+All patients also received open-label intravenous linezolid (600 mg every 12 h) for at least 5 days. ,0,0,0,0,0
+An unmasked pharmacist prepared the assigned treatments; investigators and patients were masked to treatment assignment.,0,0,0,0,0
+"Only the unmasked pharmacist was aware of the study drug assignment for the infusion bags, which were administered in generic infusion bags labelled with patient and study site identification numbers.",0,0,0,0,0
+Participants were stratified at randomisation by infection type and Acute Physiology and Chronic Health Evaluation II (APACHE II) score (≤15 and ≥16). ,1,0,0,0,0
+"The primary endpoint was all-cause mortality at day 14 in the modified intention-to-treat (ITT) population (ie, all patients receiving at least one dose of study drug, excluding patients with Gram-positive monomicrobial infections).",0,0,0,0,0
+The analysis was done for all patients with known vital status.,0,0,0,0,0
+Non-inferiority was concluded if the upper bound of the 95% CI for the treatment difference between cefiderocol and meropenem groups was less than 12·5%. ,0,0,0,0,0
+"Safety was investigated to the end of the study in the safety population, which included all patients who received at least one dose of study drug.",0,0,0,0,0
+"Findings: Between Oct 23, 2017, and April 14, 2019, we randomly assigned 148 participants to cefiderocol and 152 to meropenem.",1,0,0,0,0
+"Of 292 patients in the modified ITT population, 251 (86%) had a qualifying baseline Gram-negative pathogen, including Klebsiella pneumoniae (92 [32%]), Pseudomonas aeruginosa (48 [16%]), Acinetobacter baumannii (47 [16%]), and Escherichia coli (41 [14%]).",0,0,0,0,0
+"142 (49%) patients had an APACHE II score of 16 or more, 175 (60%) were mechanically ventilated, and 199 (68%) were in intensive care units at the time of randomisation",1,0,0,0,0
+"All-cause mortality at day 14 was 12·4% with cefiderocol (18 patients of 145) and 11·6% with meropenem (17 patients of 146; adjusted treatment difference 0·8%, 95% CI -6·6 to 8·2; p=0·002 for non-inferiority hypothesis).",0,0,0,0,0
+Treatment-emergent adverse events were reported in 130 (88%) of 148 participants in the cefiderocol group and 129 (86%) of 150 in the meropenem group.,0,0,0,0,0
+The most common treatment-emergent adverse event was urinary tract infection in the cefiderocol group (23 patients [16%] of 148) and hypokalaemia in the meropenem group (23 patients [15%] of 150).,0,0,0,0,0
+Two participants (1%) of 148 in the cefiderocol group and two (1%) of 150 in the meropenem group discontinued the study because of drug-related adverse events.,0,0,1,0,0
+The effects of 6 mo of supplementation with probiotics and synbiotics on gut microbiota in the adults with prediabetes: A double blind randomized clinical trial,1,1,0,0,0
+Objectives: The evidence of 16S rRNA genes in the gut microbiota distinguished a higher Firmicutes-to-Bacteroidetes ratio in individuals who were obese and had diabetes than in a healthy cohort.,0,0,0,0,0
+"So, it seems that the modulation of intestinal microbial ecology by pro-/pre-/synbiotics may contribute to the progression and prevention of metabolic diseases.",0,0,0,0,0
+he aim of this study was to assess the effects of probiotics and synbiotic supplementation on the modification of the intestinal microbiome in adults with prediabetes.,0,0,0,0,0
+"Methods: In a randomized, double-blinded, placebo-controlled clinical trial, 120 patients with prediabetes were randomly assigned to consume 6 g/d of either a placebo containing maltodextrin (control) or multispecies probiotic or inulin-based synbiotic for 6 mo. ",1,1,0,0,0
+ Fecal samples were obtained at baseline and after 6 mo of supplementation.,0,0,0,0,0
+"Total energy, macronutrients, and dietary fiber were calculated using a dietary program Nutritionist 4. ",0,0,0,0,0
+"DNA was extracted from fecal samples and the numbers of Clostridium perfringens (the represent of phylum Firmicutes), Bacteroides fragilis (the representative of Bacteroidetes) and Escherichia coli (as universal bacteria) were determined by quantitative real-time polymerase chain reactions (qPCR).",0,0,0,0,0
+The changes in the relative abundance of the two fecal bacteria before and after supplementation were analyzed and compared within and between groups.,0,0,0,0,0
+Results: There were no significant changes in dietary intake during the study. ,0,0,0,0,0
+"Six mo of supplementation with probiotics resulted in a statistically significant increase in the abundance of the B. fragilis-to-E.coli ratio (mean difference [MD] ± SE 0.47 ± 0.37, P = 0.04) and decrease of the relative proportion of Firmicutes-to-Bacteroidetes representatives (MD ± SE -118.8 ± 114.6, P = 0.02).",0,0,0,0,0
+Synbiotic had no significant effect on the changes in the bacteria.,0,0,0,0,0
+ There were no significant differences between the three groups.,0,0,0,0,0
+Conclusion: The results of this study suggest that manipulation of the human gut microbiome by using probiotics could provide a potential therapeutic approach in the prevention and management of obesity and metabolic disorders such as diabetes.,0,0,0,0,0
+Daily emollient during infancy for prevention of eczema: the BEEP randomised controlled trial,1,0,0,0,0
+Background: Skin barrier dysfunction precedes eczema development.,0,0,0,0,0
+We tested whether daily use of emollient in the first year could prevent eczema in high-risk children.,0,0,0,0,0
+"Methods: We did a multicentre, pragmatic, parallel-group, randomised controlled trial in 12 hospitals and four primary care sites across the UK.",1,0,0,0,0
+" Families were approached via antenatal or postnatal services for recruitment of term infants (at least 37 weeks' gestation) at high risk of developing eczema (ie, at least one first-degree relative with parent-reported eczema, allergic rhinitis, or asthma, diagnosed by a doctor).",0,0,0,0,0
+Term newborns with a family history of atopic disease were randomly assigned (1:1) to application of emollient daily (either Diprobase cream or DoubleBase gel) for the first year plus standard skin-care advice (emollient group) or standard skin-care advice only (control group).,1,0,0,1,0
+The randomisation schedule was created using computer-generated code (stratified by recruiting centre and number of first-degree relatives with atopic disease) and participants were assigned to groups using an internet-based randomisation system.,1,0,0,1,0
+"The primary outcome was eczema at age 2 years (defined by UK working party criteria) with analysis as randomised regardless of adherence to allocation for participants with outcome data collected, and adjusting for stratification variables.",1,0,0,0,0
+"Findings: 1394 newborns were randomly assigned to study groups between Nov 19, 2014, and Nov 18, 2016; 693 were assigned to the emollient group and 701 to the control group. ",1,0,0,0,0
+"Adherence in the emollient group was 88% (466 of 532) at 3 months, 82% (427 of 519) at 6 months, and 74% (375 of 506) at 12 months in those with complete questionnaire data.",0,0,0,0,0
+"At age 2 years, eczema was present in 139 (23%) of 598 infants with outcome data collected in the emollient group and 150 (25%) of 612 infants in the control group (adjusted relative risk 0·95 [95% CI 0·78 to 1·16], p=0·61; adjusted risk difference -1·2% [-5·9 to 3·6]). ",0,0,0,0,0
+Other eczema definitions supported the results of the primary analysis.,0,0,0,0,0
+Mean number of skin infections per child in year 1 was 0·23 (SD 0·68) in the emollient group versus 0·15 (0·46) in the control group; adjusted incidence rate ratio 1·55 (95% CI 1·15 to 2·09).,0,0,0,0,0
+Interpretation: We found no evidence that daily emollient during the first year of life prevents eczema in high-risk children and some evidence to suggest an increased risk of skin infections. ,0,0,0,0,0
+"Our study shows that families with eczema, asthma, or allergic rhinitis should not use daily emollients to try and prevent eczema in their newborn.",0,0,0,0,0
+Testing and linkage to HIV care in China: a cluster-randomised trial,1,0,0,0,0
+"Background: Multistage, stepwise HIV testing and treatment procedures can result in lost opportunities to provide timely antiretroviral therapy (ART). ",0,0,0,0,0
+ Incomplete engagement of patients along the care cascade translates into high preventable mortality. ,0,0,0,0,0
+"We aimed to identify whether a structural intervention to streamline testing and linkage to HIV health care would improve testing completeness, ART initiation, and viral suppression and reduce mortality.",0,0,0,0,0
+"Methods: We did a cluster-randomised, controlled trial in 12 hospitals in Guangxi, China. ",1,0,0,0,0
+All hospitals were required to be level 2A county general hospitals and ART delivery sites.,0,0,0,0,0
+"We selected the 12 most similar hospitals in terms of structural characteristics, past patient caseloads, and testing procedures.",0,0,0,0,0
+Hospitals were randomly assigned (1:1) to either the One4All intervention or standard of care.,1,0,0,1,0
+Hospitals were randomised in a block design and stratified by the historical rate of testing completeness of the individual hospital during the first 6 months of 2013,1,0,0,0,0
+"We enrolled patients aged 18 years or older who were identified as HIV-reactive during screening in study hospitals, who sought inpatient or outpatient care in a study hospital, and who resided in the study catchment area. ",0,0,0,0,0
+" The One4All strategy incorporated rapid, point-of-care HIV screening and CD4 counts, and in-parallel viral load testing, to promote fast and complete diagnosis and staging and provide immediate ART to eligible patients.",0,0,0,0,0
+Participants in control hospitals received standard care services. ,0,0,0,0,0
+"All enrolled patients were assessed for the primary outcome, which was testing completeness within 30 days, defined as completion of three required tests and their post-test counselling. ",0,0,0,0,0
+Safety assessments were hospital admissions for the first 90 days and deaths up to 12 months after enrolment. ,0,0,0,0,0
+"Findings: Between Feb 24 and Nov 25, 2014, we enrolled 478 patients (232 in One4All, 246 in standard of care).",0,0,0,0,0
+"In the One4All group, 177 (76%) of 232 achieved testing completeness within 30 days versus 63 (26%) of 246 in the standard-of-care group (odds ratio 19·94, 95% CI 3·86-103·04, p=0·0004).",0,0,0,0,0
+"Although no difference was observed between study groups in the number of hospital admissions at 90 days, by 12 months there were 65 deaths (28%) in the in the One4All group compared with 115 (47%) in the standard-of-care group (Cox proportional hazard ratio 0·44, 0·19-1·01, p=0·0531).",0,0,0,0,0
+"Interpretation: Our study provides strong evidence for the benefits of a patient-centred approach to streamlined HIV testing and treatment that could help China change the trajectory of its HIV epidemic, and help to achieve the goal of an end to AIDS.",0,0,0,0,0
+"PRIMVAC vaccine adjuvanted with Alhydrogel or GLA-SE to prevent placental malaria: a first-in-human, randomised, double-blind, placebo-controlled study",1,1,0,0,0
+Background: PRIMVAC is a VAR2CSA-derived placental malaria vaccine candidate aiming to prevent serious clinical outcomes of Plasmodium falciparum infection during pregnancy,0,0,0,0,0
+We assessed the safety and immunogenicity of PRIMVAC adjuvanted with Alhydrogel or glucopyranosyl lipid adjuvant in stable emulsion (GLA-SE) in French and Burkinabe women who were not pregnant.,0,0,0,0,0
+"Methods: This first-in-human, randomised, double-blind, placebo-controlled, dose escalation trial was done in two staggered phases, a phase 1A trial in 18-35-year-old women who were malaria naive in a hospital in France and a subsequent phase 1B trial in women who were naturally exposed to P falciparum and nulligravid in the clinical site of a research centre in Burkina Faso. ",1,1,0,0,0
+"Volunteers were recruited into four sequential cohorts receiving PRIMVAC intramuscularly at day 0, 28, and 56: two cohorts in France receiving 20 μg or 50 μg of PRIMVAC and then two in Burkina Faso receiving 50 μg or 100 μg of PRIMVAC.",0,0,0,0,0
+"Randomisation was centralised, using stratification by cohort and blocks of variable size, and syringes were masked by opaque labels.",1,0,0,1,0
+The primary endpoint was the proportion of participants with any grade 3 or higher adverse reaction to vaccination up until day 35.,0,0,0,0,0
+Safety at later time points as well as humoral and cellular immunogenicity were assessed in secondary endpoints.,0,0,0,0,0
+"Findings: Between April 19, 2016, and July 13, 2017, 68 women (18 in France, 50 in Burkina Faso) of 101 assessed for eligibility were included.",0,0,0,0,0
+No serious adverse event related to the vaccine occurred.,0,0,0,0,0
+"PRIMVAC antibody titres increased with each dose and seroconversion was observed in all women vaccinated with PRIMVAC (n=57). PRIMVAC antibody titres reached a peak (geometric mean 11 843·0, optical density [OD] 1·0, 95% CI 7559·8-18 552·9 with 100 μg dose and GLA-SE) 1 week after the third vaccination (day 63)",0,0,0,0,0
+"Compared with Alhydrogel, GLA-SE tended to improve the PRIMVAC antibody response (geometric mean 2163·5, OD 1·0, 95% CI 1315·7-3557·7 with 100 μg dose and Alhydrogel at day 63). ",0,0,0,0,0
+" 1 year after the last vaccination, 20 (71%) of 28 women who were vaccinated with PRIMVAC/Alhydrogel and 26 (93%) of 28 women who were vaccinated with PRIMVAC/GLA-SE still had anti-PRIMVAC antibodies, although antibody magnitude was markedly lower (452·4, OD 1·0, 95% CI 321·8-636·1 with 100 μg dose and GLA-SE).",0,0,0,0,0
+"These antibodies reacted with native homologous VAR2CSA expressed by NF54-CSA infected erythrocytes (fold change from baseline at day 63 with 100 μg dose and GLA-SE: 10·74, 95% CI 8·36-13·79). ",0,0,0,0,0
+"Limited cross-recognition, restricted to sera collected from women that received the 100 μg PRIMVAC dose, was observed against heterologous VAR2CSA variants expressed by FCR3-CSA (fold change from baseline at day 63: 1·49, 95% CI 1·19-1·88) and 7G8-CSA infected erythrocytes (1·2, 1·08-1·34).",0,0,0,0,0
+"Among 1650 randomized patients (mean age, 72.1 years [SD, 5.4 years]; 63.6% women; 91.0% white), 1597 (96.8%) received at least 1 dose of warfarin therapy and completed the trial (n = 808 in genotype-guided group vs n = 789 in clinically guided group)",1,0,0,0,0
+"Patients were randomized 1:1 using a computerized system that stratified by site, type of arthroplasty (knee or hip), and race (black vs other)",1,0,0,1,0
+The goal of this multicenter randomized clinical trial was to determine whether genotype-guided warfarin dosing reduced adverse events.,1,0,0,0,0
+"Twenty-three patients in the genotype-guided group and 30 in the clinically guided group were excluded because they did not undergo arthroplasty, withdrew from the trial, never received warfarin, or were discovered to have met an exclusion criterion after randomization",0,0,1,0,0
+This randomized controlled trial enrolled adult human subjects after upper- abdominal surgery from January 2017 to November 2018,1,0,0,0,0
+"Among the remaining 209 patients who consented, 132 patients were not randomized due to predefined exclusion criteria",0,0,1,0,0
+We enrolled 96 patients with SJS-TEN in a randomized trial to compare the effects of the TNF-α antagonist etanercept versus traditional corticosteroids,1,0,0,0,0
+"Among these participants, 3 failed the screening (CD4 count <200 cells/mm3) and 2 had changes in their diagnosis (Figure 2 and Supplemental Table 3)",0,0,1,0,0
+"This double-blind, randomized, parallel-group study was conducted at 22 university hospitals and research centers in Japan from March 2012 to April 2014 (see Appendix APPENDIX A)",1,1,0,0,0
+Patients who participated in the 4-week screening period and met the entry criteria were enrolled and randomized (by computer) to the HCQ group or the placebo group in a 3:1 ratio with a block size of 4,1,0,0,1,0
+"Randomization was stratified according to a CLASI activity score of <9 or ≥9 on day 1, which was the median value of the CLASI activity score at baseline in a previous Japanese cohort study 17.",1,0,0,1,0
+"This double-blind, randomized, baseline-controlled study demonstrated a significant reduction in the CLASI activity score in both the HCQ-treated group and the placebo-treated group at week 16",1,1,0,0,0
+"Two randomized, double-blind, multicenter, parallel-group studies (one flexible-dose, one forced-dose) with placebo reference arms were conducted.",1,1,0,0,0
+"At the start of double-blind treatment, participants were randomized (2:2:1) using an interactive web-response system (IWRS) to once-daily lisdexamfetamine, OROS-MPH, or placebo, respectively",1,0,0,1,0
+"To maintain blinding, treatments were identical in appearance; participants were also instructed to take one capsule from two separate bottles.",0,0,0,0,1
+"Numbers of withdrawals, losses to follow-up, and missing outcome data, and the number and proportion of cases excluded from the analyses by outcome measure and treatment group are shown in the appendix (pp 25–27)",0,0,1,0,0
+Distinct effects of losartan and atenolol on vascular stiffness in Marfan syndrome,0,0,0,0,0
+"We conducted a randomized, double-blind trial of losartan (100 mg QD) versus atenolol (50 mg QD) for 6 months in adults with Marfan syndrome.",1,1,0,0,0
+"Carotid-femoral pulse wave velocity (PWV), central augmentation index (AIx), aortic diameter and left ventricular (LV) function were assessed with arterial tonometry and echocardiography.",0,0,0,0,0
+"Thirty-four subjects (18 female; median age 35 years, IQR 27, 45) were randomized.",1,0,0,0,0
+A prospective randomization process was performed to assign participants to either aliskiren treatment (150-300mg orally per day) or no aliskiren treatment (negative control) in an open-label design.,1,0,0,0,0
+"We undertook a nonrandomized, open-label, feasibility, and safety study using autologous keratinocytes transduced with a lentiviral vector encoding SPINK5 under the control of the human involucrin promoter.",0,0,0,0,0
+"Effect of early low-dose hydrocortisone on survival without bronchopulmonary dysplasia in extremely preterm infants (PREMILOC): a double-blind, placebo-controlled, multicentre, randomised trial",1,1,0,0,0
+"In this double-blind, placebo-controlled, randomised trial done at 21 French tertiary-care neonatal intensive care units (NICUs), we randomly assigned (1:1), via a secure study website, extremely preterm infants inborn (born in a maternity ward at the same site as the NICU) at less than 28 weeks of gestation to receive either intravenous low-dose hydrocortisone or placebo during the first 10 postnatal days. ",1,1,0,1,0
+"Infants randomly assigned to the hydrocortisone group received 1 mg/kg of hydrocortisone hemisuccinate per day divided into two doses per day for 7 days, followed by one dose of 0·5 mg/kg per day for 3 days.",1,0,0,0,0
+Randomisation was stratified by gestational age and all infants were enrolled by 24 h after birth.,1,0,0,0,0
+"Study investigators, parents, and patients were masked to treatment allocation.",0,0,0,0,1
+"1072 neonates were screened between May 25, 2008, and Jan 31, 2014, of which 523 were randomly assigned (256 hydrocortisone, 267 placebo). ",1,0,0,0,0
+255 infants on hydrocortisone and 266 on placebo were included in analyses after parents withdrew consent for one child in each group.,0,0,1,0,0
+"Randomization was performed preoperatively using sequentially numbered, opaque, sealed envelopes, and patients were informed of the results of randomization.",1,0,0,1,0
+Randomisation was done by use of three-digit randomisation codes in envelopes provided by a data management service.,1,0,0,1,0
+"The participants and investigators were masked to treatment assignment, which was maintained by use of sterile saline as a placebo injection. ",0,0,0,0,1
+"Healthy men and women aged 18-45 years with no comorbidities were randomly assigned, by computer-generated block randomisation (block size of 14), to receive either one of three escalating doses of the measles-virus-based candidate vaccine (low dose [1·5 × 10(4) median tissue culture infection doses (TCID50) per 0·05 mL], medium dose [7·5 × 10(4) TCID50 per 0·25 mL], or high dose [3·0 × 10(5) TCID50 per 1·0 mL]), or the active comparator-Priorix. ",1,0,0,1,0
+Participants and study investigators were masked to group allocation.,0,0,0,0,1
+"We analyzed hospital and immunization records of 104 patients with CHH and measured serum antibodies to measles, mumps, rubella, and varicella zoster virus (VZV) in all patients who agreed to blood sampling (n = 50). ",0,0,1,0,0
+Three patients in the sertraline group and three patients in the placebo group were lost to follow-up and therefore discontinued before study end.,0,0,1,0,0
+"In this double-blind, randomised, placebo-controlled trial, we recruited HIV-positive adults with cryptococcal meningitis from two hospitals in Uganda. ",1,1,0,0,0
+Participants were randomly assigned (1:1) to receive standard therapy with 7-14 days of intravenous amphotericin B (0·7-1·0 mg/kg per day) and oral fluconazole (starting at 800 mg/day) with either adjunctive sertraline or placebo.,1,0,0,1,0
+"Fifteen patients left the study within the first six months: voluntarily n = 12, because of neutropenia n = 1, and death n = 1. ",0,0,1,0,0
+Twelve patients left the study within the second six months: voluntarily n = 11 and death n = 1.,0,0,1,0,0
+A pilot randomized controlled trial of complete bed rest versus activity restriction after preterm premature rupture of the membranes,1,0,0,0,0
+"We did a double-blind, multicentre, randomised placebo-controlled trial at 33 hospital maternity units in England and Wales. ",1,1,0,1,0
+"The primary outcome analysis included 304 women and 322 infants in the ursodeoxycholic acid group, and 300 women and 318 infants in the placebo group (consent to use data was withdrawn for 1 woman and 2 infants). ",0,0,1,0,0
+"Participants were randomly assigned 1:1 to ursodeoxycholic acid or placebo, given as two oral tablets a day at an equivalent dose of 500 mg twice a day.",1,0,0,1,0
+"Data after randomization were not available for 10 women in the metformin group and 8 in the insulin group, who therefore could not be included in the analysis. ",1,0,1,0,0
+We randomly assigned 751 women with gestational diabetes mellitus at 20 to 33 weeks of gestation to open treatment with metformin (with supplemental insulin if required) or insulin.,1,0,0,0,0
+"After refusals (20%) and attrition (25%), the final sample comprised 84 depressed pregnant women.",0,0,1,0,0
+"We separately consented and enrolled 86 children and, of these, were able to obtain buffy coat speciments on 83/86 (97%).",0,0,1,0,0
+"One child subsequently withdrew consent just for HLA typing, for a final of 82 children on whom we performed HLA typing.",0,0,1,0,0
+Six patients from group A and eight patients from group B were either lost to follow-up or found the procedure painful and withdrew from the study (Figure 1).,0,0,1,0,0
+ Patients were randomly assigned into two groups.,1,0,0,0,0
+"This prospective, comparative, single-blinded study was initiated after approval by the institutional ethics committee.",0,0,0,0,0
+A total of 71 participants (VAR-PE: 31; VAR:40) were identified as seropositive at baseline (VZV antibody ≥1.25 gpELISA units/mL) and excluded from the PP analysis.,0,0,1,0,0
+"The PP population excluded participants who had important protocol deviations with the potential to impact the immunogenicity analyses (not compliant with immunogenicity specimen collection, n = 8; receipt of systemic steroids 7 days prior to vaccination or during the 42-day safety follow-up period, n = 6; receipt of improperly stored study treatment, n = 2; improper reconstitution of vaccine, n = 1), as well as participants who did not receive any study vaccine, n = 1, did not have postvaccination immunogenicity assessments, n = 45, or had seropositive status at baseline, n = 77.",0,0,1,0,0
+"A double-blind, randomized, multicenter, controlled study to evaluate the immunogenicity, safety, and tolerability of varicella vaccine (VARIVAX™) passage extension 34 (PE34) process administered concomitantly with measles, mumps, and rubella vaccine (M-M-R™ II)",1,1,0,0,0
+"Subjects were assigned randomized treatment in a 1:1 ratio to VAR-PE or VAR, without stratiﬁcation.",1,0,0,1,0
+"Protection against varicella with two doses of combined measles-mumps-rubella-varicella vaccine or one dose of monovalent varicella vaccine: 10-year follow-up of a phase 3 multicentre, observer-blind, randomised, controlled trial",1,0,0,0,0
+"This was a phase 3b follow-up of an observer-blinded, randomised, controlled trial. In phase a, children aged 12-22 months (at first vaccination) from Czech Republic (Czechia), Greece, Italy, Lithuania, Norway, Poland, Romania, Russia, Slovakia, and Sweden were randomly assigned by computer-generated randomisation list (3:3:1) to receive two doses of MMRV, one dose of MMR and one dose of varicella vaccine, or two doses of MMR, 42 days apart.",1,0,0,1,0
+"This was a phase III, randomised, double-blind, non-inferiority study of the MMR-Bio administered in infants immunised at health care units in Pará, Brazil, from February 2015 to January 2016.",1,1,0,0,0
+"After signing the informed consent, 79 of the 1,639 participants were excluded before receiving the MMR vaccine, mainly because of withdrawals and “other reasons”.",0,0,1,0,0
+"Randomisation was conducted by blocks of size 4, with 390 infants in each arm; about 1,170 infants comprised the MMR-Bio group and 390 comprised the MMR-GSK group (3:1 allocation ratio).",1,0,0,1,0
+"The randomisation list was drawn up by the BioForm system (electronic system used to record patients’ clinical information) with numbers from 1 to 1,560, which was not disclosed to the field work team in order to keep the blindness of the participants and the study team.",1,0,0,1,1
+"Two children were contraindicated for the MMR vaccine at 9 months of age and were excluded from the analysis: one was diagnosed with Kawasaki disease at 8.5 months and received intravenous Ig and the other naturally contracted measles at the age of 9 months, a few days before the scheduled MMR vaccine visit",0,0,1,0,0
+"There were 11 discontinuations during the study period, with adverse events the most common reason for discontinuation (n = 6) (see Supplementary Figure S1).",0,0,1,0,0
+"CARIMA (Evaluation of Cardiovascular Risk Markers in Psoriasis Patients Treated with Secukinumab) was a 52-week, randomized, double-blind, placebo-controlled, exploratory trial in patients with moderate to severe plaque psoriasis without clinical CV disease.",1,1,0,0,0
+Patients were assigned to one of the two trial arms (probiotics or control) following a computerized randomization list previously prepared by a blinded statistician for the treatment administered and for the results during all data analysis.,1,1,0,1,1
+"Randomization was performed according to the baseline variables: sex, age and age of onset of psoriasis.",1,0,0,1,0
+Patients 18 years or older with inadequately controlled psoriasis for more than 6 months were randomized 2:1 to receive secukinumab or placebo (see Fig E1 in this article's Online Repository at www.jacionline.org). ,1,0,0,1,0
+"Thirty-six treatment-naïve patients will be randomized in a 1:1:1 ratio to Arm A1b, A2 or B1b, whereas another 136 treatment-naïve patients will be randomized in 1:1 ratio to Arm A1a or B1a.",1,0,0,1,0
+"Of these, 16 did not receive VSTs, either because intervention was considered not required (n = 4) or because the patients were ineligible (n = 12; Appendix Table A4, online only)",0,0,1,0,0
+Seven were excluded subsequently; one from ineligibility (born <36 weeks) and six for failing to provide any swabs.,0,0,1,0,0
+Three subjects were excluded due to incomplete nasal cytokine data.,0,0,1,0,0
+"A total of 271 participants (90% in the prazosin group and 89% in the placebo group) completed the 10-week primary outcome assessments, and 284 (94% in the prazosin group and 93% in the placebo group) completed one or more of the 10-week primary outcome assessments; 59 participants (20% in the prazosin group and 19% in the placebo group) withdrew from the trial before the 26-week visit.",0,0,1,0,0
+"Using a web-based randomisation system, we randomly assigned participants (1:1:2) to three different dose groups of MDMA plus psychotherapy: 30 mg (active control), 75 mg, or 125 mg.",1,0,0,1,0
+"We masked investigators, independent outcome raters, and participants until after the primary endpoint.",0,0,0,0,1
+"We did a randomised, double-blind, dose-response, phase 2 trial at an outpatient psychiatric clinic in the USA. ",1,1,0,0,0
+"Among 38 participants who were enrolled in the study, 9 participants did not start the THR program due to several reasons (personal matters, n = 5; injuries, n = 2; logistic issues, n = 2).",0,0,1,0,0
+"Nineteen veterans were excluded (13 did not meet inclusion criteria, and 6 for a variety of other reasons).",0,0,1,0,0
+"We used a randomized wait-list controlled design with repeated measures of U.S. military veterans to address our specific aim to test the efficacy of a 6-week therapeutic horseback riding (THR) program for decreasing PTSD symptoms and increasing coping self-efficacy, emotion regulation, social and emotional loneliness.",1,0,0,0,0
+Fifty-seven participants were recruited and 29 enrolled in the randomized trial.,1,0,0,0,0
+They were randomly assigned to either the horse riding group (n = 15) or a wait-list control group (n = 14).,1,0,0,0,0
+"Of the 68 Veterans who were self- or provider-referred to the program, 25 (36.7%) were ineligible due to (i) absence of a PTSD diagnosis (n = 3); participation in ongoing intense psychotherapy (n = 4) or inpatient substance abuse program (n = 2); current resident of the Domiciliary (n = 8) and inability to participate due to distance of residence from the VA (n = 8).",0,0,1,0,0
+Only 3 (4.4%) Veterans declined participation due to lack of interest.,0,0,1,0,0
+"The study was designed as a prospective, delayed-entry randomized pilot trial.",1,0,0,0,0
+Music-instruction intervention for treatment of post-traumatic stress disorder: a randomized pilot study,1,0,0,0,0
+"The Consort diagram (Figure ​(Figure1)1) shows 1,164 eligible patients, 309 died in ICU or shortly after discharge, 65 refused to take part and 433 were excluded because of previous psychotic illness (n = 6), attempted suicide (n = 3), age younger than 16 years (n = 2), distance too great for follow-up (n = 10), transferred to another ICU (n = 274) or unresolving confusion at one to two weeks post-ICU admission (n = 138).",0,0,1,0,0
+Data analysis was performed blind using coded data and the code only broken once the analysis was complete.,0,1,0,0,1
+Intensive care patients with an ICU stay of more than 72 hours were recruited to a randomised controlled trial examining the effect of a diary outlining the details of the patients ICU stay on the development of acute PTSD. ,1,0,0,0,0
+One patient dropped out after two sessions as she was called to a family emergency abroad.,0,0,1,0,0
+"A subsequent randomized controlled trial compared CT () and a 3-month waitlist condition (WL, ).",1,0,0,0,0
+"Eligible patients were randomly allocated to one of four groups: group A, simulated TEAS combined with sertraline; group B, simulated TEAS combined with CBT; group C, active TEAS combined with CBT; and group D, active TEAS combined with sertraline plus CBT, in a ratio of 1:1:1:1. ",1,0,0,1,0
+"To ensure allocation concealment, the group allocation was done in a partially double-blind manner.",0,1,0,0,0
+"Clinical assessors, data collectors, and analysts were blinded to patient treatment.",0,0,0,0,1
+One patient with PTSD dropped out of the study as they refused a follow-up session due to distress associated with the scanning procedure.,0,0,1,0,0
+" Two participants (one PTSD and one TEC) were excluded from all imaging analyses: one had a major frontal artefact and with the other participant, there were technical issues with the scanner.",0,0,1,0,0
+"Participants exposed to earthquakes with (n = 11) and without post-traumatic stress disorder (n = 11) underwent two functional magnetic resonance imaging scans, 1-week apart, in a double-blind, placebo-controlled, counter-balanced design. ",0,1,0,0,0
+"In other words, the assessors and data analyzer were blinded to the group allocation.",0,0,0,1,0
+ A participant in the intervention group and two participants in the control group were excluded from the study because their babies were admitted to the intensive care unit (Fig. 1). ,0,0,1,0,0
+"Effectiveness of midwife-led brief counseling intervention on post-traumatic stress disorder, depression, and anxiety symptoms of women experiencing a traumatic childbirth: a randomized controlled trial",1,0,0,0,0
+They were randomly assigned into two groups: the intervention (n = 45) or control groups (n = 45) via block randomization method using 4-way blocks. ,1,0,0,1,0
+The randomization code was generated by a web-based randomization system.,0,0,0,1,0
+The study was double-blinded.,0,1,0,0,0
