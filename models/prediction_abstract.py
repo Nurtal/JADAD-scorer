@@ -22,6 +22,8 @@ max_len = 250
 
 def item_predition(max_words,max_len,sentence):
     info_abstract = {}
+    list_items = []
+    list_percent = []
     for i in range(1,6):
         save_name_model = 'item'+str(i)+'_predictor.h5'
         save_name_tokenizer = 'item'+str(i)+'_tokenizer.pickle'
@@ -38,18 +40,40 @@ def item_predition(max_words,max_len,sentence):
         new_pred = '{:.20f}'.format(prediction_value)
         new_pred = round(float(new_pred),3)
         print(new_pred)
-        if new_pred >= 0.001 :
+        print(prediction_value)
+        if prediction_value >= 0.0001 :
+            list_items.append(i)
+            list_percent.append(new_pred)
             if str("ITEM")+str(i) not in info_abstract.keys():
                 info_abstract[str("ITEM")+str(i)] = [str(sentence)]
             else :
                 info_abstract[str("ITEM")+str(i)].append(str(sentence))
 
-    print(info_abstract)
+    total_score = len(info_abstract)
+    return list_items, list_percent
 
 
+#sentence ="After being informed, 46 patients, 36 women and 10 men, refused further cooperation."
+#item_predition(max_words,max_len,sentence)
 
-sentence = "All potential events were adjudicated by a clinical events committee, which was blinded to treatment allocation."
-item_predition(max_words,max_len,sentence)
+
+df = pd.read_csv("./validation_set.csv")
+res_write = open("./res_pred_validation.csv","a", encoding = "utf-8")
+res_write.write("sentence\titems\tpercent\n")
+
+for ind in df.index:
+    sentence = df["SENTENCES"][ind]
+    result = item_predition(max_words, max_len, str(sentence))
+    pred_result = result[0]
+    percent_pred = result[1]
+    print(pred_result)
+    print(sentence)
+    #print(pred_result[])
+    print(len(pred_result))
+    if len(pred_result) == 0 :
+        res_write.write(str(sentence)+"\t"+"0\n")
+    else :
+        res_write.write(str(sentence)+"\t"+",".join(str(item) for item in pred_result)+"\t"+",".join(str(item) for item in percent_pred)+"\n")
 
 """
 ESSAIS :
