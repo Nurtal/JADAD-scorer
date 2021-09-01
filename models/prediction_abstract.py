@@ -14,10 +14,14 @@ from tensorflow.keras.utils import to_categorical
 from keras.callbacks import EarlyStopping
 import tensorflow as tf
 import pickle
+import os
 
 ## parameters
 max_words = 5000
 max_len = 250
+
+if os.path.exists('./res_pred_validation.csv') :
+    os.remove('./res_pred_validation.csv')
 
 
 def item_predition(max_words,max_len,sentence):
@@ -35,19 +39,15 @@ def item_predition(max_words,max_len,sentence):
         sequences = loaded_tokenizer.texts_to_sequences([sentence])
         sequences_matrix = sequence.pad_sequences(sequences,maxlen=max_len)
         pred = model.predict(sequences_matrix)
-        print("ITEM" +str(i)+" : "+str(pred))
+        #print("ITEM" +str(i)+" : "+str(pred))
         prediction_value = pred[0][0]
         new_pred = '{:.20f}'.format(prediction_value)
         new_pred = round(float(new_pred),3)
-        print(new_pred)
-        print(prediction_value)
+        #print(new_pred)
+        #print(prediction_value)
         if prediction_value >= 0.0001 :
             list_items.append(i)
             list_percent.append(new_pred)
-            if str("ITEM")+str(i) not in info_abstract.keys():
-                info_abstract[str("ITEM")+str(i)] = [str(sentence)]
-            else :
-                info_abstract[str("ITEM")+str(i)].append(str(sentence))
 
     total_score = len(info_abstract)
     return list_items, list_percent
@@ -57,23 +57,76 @@ def item_predition(max_words,max_len,sentence):
 #item_predition(max_words,max_len,sentence)
 
 
+
+df = pd.read_csv("./validation_title_abstract.csv", sep="\t")
+
+
+
+for ind in df.index :
+
+    info_abstract = {}
+    title = str(df["TITLE"][ind])
+    title_list = str(title).split(". ")
+
+    abstract = str(df["ABSTRACT"][ind])
+    abstract_list = str(abstract).split(". ")
+
+    title_abstract = title_list + abstract_list
+
+    for sentences in title_abstract :
+
+        result = item_predition(max_words, max_len, str(sentences))
+        pred_result = result[0]
+        percent_pred = result[1]
+
+        if len(pred_result) > 0 :
+            if str(pred_result[:]).strip('[]') not in info_abstract.keys():
+                info_abstract[str(pred_result[:]).strip('[]')] = [str(sentences)]
+            else :
+                info_abstract[str(pred_result[:]).strip('[]')].append(str(sentences))
+
+
+        #df["JADAD_ITEMS"][ind] = "3"
+    print(info_abstract)
+    print(info_abstract.keys())
+    items_list = []
+    for key in info_abstract.keys():
+        key = str(key).replace("\'","")
+        key = str(key).split(",")
+
+        for i in key :
+            if i not in items_list :
+                items_list.append(i)
+
+
+    df["JADAD_ITEMS"][ind] = str(items_list).strip('[]').replace('\'','')
+    df["SCORE_PRED"][ind] = len(items_list)
+
+df.to_csv(r'./val_essai_c.csv', index=None, sep='\t', mode='w')
+
+"""
 df = pd.read_csv("./validation_set.csv")
+
 res_write = open("./res_pred_validation.csv","a", encoding = "utf-8")
 res_write.write("sentence\titems\tpercent\n")
-
+n = 0
 for ind in df.index:
+
     sentence = df["SENTENCES"][ind]
+    #sentence = str(line)
+    print(sentence)
     result = item_predition(max_words, max_len, str(sentence))
     pred_result = result[0]
     percent_pred = result[1]
+
     print(pred_result)
-    print(sentence)
-    #print(pred_result[])
     print(len(pred_result))
-    if len(pred_result) == 0 :
-        res_write.write(str(sentence)+"\t"+"0\n")
-    else :
+    if len(pred_result) != 0 :
         res_write.write(str(sentence)+"\t"+",".join(str(item) for item in pred_result)+"\t"+",".join(str(item) for item in percent_pred)+"\n")
+    else :
+        res_write.write(str(sentence)+"\t"+"0\n")
+"""
+
 
 """
 ESSAIS :
