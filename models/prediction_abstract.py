@@ -20,8 +20,8 @@ import os
 max_words = 5000
 max_len = 250
 
-if os.path.exists('./res_pred_validation.csv') :
-    os.remove('./res_pred_validation.csv')
+if os.path.exists('../data/res_pred_validation.csv') :
+    os.remove('../data/res_pred_validation.csv')
 
 
 def item_predition(max_words,max_len,sentence):
@@ -45,10 +45,9 @@ def item_predition(max_words,max_len,sentence):
         new_pred = round(float(new_pred),3)
         #print(new_pred)
         #print(prediction_value)
-        if prediction_value >= 0.0001 :
+        if prediction_value > 0.25 :
             list_items.append(i)
             list_percent.append(new_pred)
-
     total_score = len(info_abstract)
     return list_items, list_percent
 
@@ -58,8 +57,7 @@ def item_predition(max_words,max_len,sentence):
 
 
 
-df = pd.read_csv("./validation_title_abstract.csv", sep="\t")
-
+df = pd.read_csv("../data/validation_title_abstract2.tsv", sep="\t")
 
 
 for ind in df.index :
@@ -73,7 +71,9 @@ for ind in df.index :
 
     title_abstract = title_list + abstract_list
 
-    for sentences in title_abstract :
+
+
+    for sentences in title_abstract[:-1] : ##'nan' values are in the end of the list
 
         result = item_predition(max_words, max_len, str(sentences))
         pred_result = result[0]
@@ -81,14 +81,15 @@ for ind in df.index :
 
         if len(pred_result) > 0 :
             if str(pred_result[:]).strip('[]') not in info_abstract.keys():
-                info_abstract[str(pred_result[:]).strip('[]')] = [str(sentences)]
+                info_abstract[str(pred_result[:]).strip('[]')] = [(str(sentences),percent_pred)]
             else :
-                info_abstract[str(pred_result[:]).strip('[]')].append(str(sentences))
+                info_abstract[str(pred_result[:]).strip('[]')].append((str(sentences),percent_pred))
 
 
         #df["JADAD_ITEMS"][ind] = "3"
+
     print(info_abstract)
-    print(info_abstract.keys())
+    #print(info_abstract.keys())
     items_list = []
     for key in info_abstract.keys():
         key = str(key).replace("\'","")
@@ -98,16 +99,18 @@ for ind in df.index :
             if i not in items_list :
                 items_list.append(i)
 
-
+    items_list = (set(items_list))
     df["JADAD_ITEMS"][ind] = str(items_list).strip('[]').replace('\'','')
     df["SCORE_PRED"][ind] = len(items_list)
 
-df.to_csv(r'./val_essai_c.csv', index=None, sep='\t', mode='w')
+df.to_csv(r'../data/val_essai_c.csv', index=None, sep='\t', mode='w')
+
+
 
 """
-df = pd.read_csv("./validation_set.csv")
+df = pd.read_csv("../data/validation_set.csv")
 
-res_write = open("./res_pred_validation.csv","a", encoding = "utf-8")
+res_write = open("../data/res_pred_validation.csv","a", encoding = "utf-8")
 res_write.write("sentence\titems\tpercent\n")
 n = 0
 for ind in df.index:

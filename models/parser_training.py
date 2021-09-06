@@ -13,7 +13,7 @@ from keras.layers import LSTM, Activation, Dense, Dropout, Input, Embedding
 from keras.optimizers import RMSprop
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing import sequence
-from keras.utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 from keras.callbacks import EarlyStopping
 import tensorflow as tf
 import pickle
@@ -63,7 +63,7 @@ for i in range(1,6):
     Y = Y.reshape(-1,1)
 
     ## split into train & validation
-    X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.3)
+    X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.35)
 
     ## tokenisation
     tok = Tokenizer(num_words=max_words)
