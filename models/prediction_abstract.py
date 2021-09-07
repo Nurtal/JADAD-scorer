@@ -96,13 +96,10 @@ for ind in df.index :
         key = str(key).split(",")
 
         for i in key :
+            i = i.replace(" ","")
             if i not in items_list :
                 items_list.append(i)
-    print(items_list)
 
-    items_list = (set(items_list))
-
-    print(items_list)
     df["JADAD_ITEMS"][ind] = str(items_list).strip('[]').replace('\'','')
     df["SCORE_PRED"][ind] = len(items_list)
 
